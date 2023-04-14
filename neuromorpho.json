@@ -1,0 +1,3575 @@
+{
+  "_embedded": {
+    "neuronResources": [
+      {
+        "neuron_id": 1013,
+        "neuron_name": "n10fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "Beta-catenin overexpression"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "980.84",
+        "surface": "7144.55",
+        "volume": "1952.58",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n10fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1013"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1013"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1013"
+          }
+        }
+      },
+      {
+        "neuron_id": 1014,
+        "neuron_name": "n11fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "Beta-catenin overexpression"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "735.43",
+        "surface": "11339.9",
+        "volume": "4658.0",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n11fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1014"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1014"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1014"
+          }
+        }
+      },
+      {
+        "neuron_id": 1015,
+        "neuron_name": "n12fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "Beta-catenin overexpression"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "578.16",
+        "surface": "9641.21",
+        "volume": "2532.31",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n12fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1015"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1015"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1015"
+          }
+        }
+      },
+      {
+        "neuron_id": 1016,
+        "neuron_name": "n13fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "Control"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "556.48",
+        "surface": "6628.55",
+        "volume": "1846.42",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n13fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1016"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1016"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1016"
+          }
+        }
+      },
+      {
+        "neuron_id": 1017,
+        "neuron_name": "n14fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "N-cadherin overexpression"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "632.3",
+        "surface": "2682.57",
+        "volume": "1014.33",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n14fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1017"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1017"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1017"
+          }
+        }
+      },
+      {
+        "neuron_id": 1018,
+        "neuron_name": "n15fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "Beta-catenin overexpression"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "494.91",
+        "surface": "7402.7",
+        "volume": "1838.07",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n15fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1018"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1018"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1018"
+          }
+        }
+      },
+      {
+        "neuron_id": 1019,
+        "neuron_name": "n16fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "Control"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "1693.54",
+        "surface": "9051.23",
+        "volume": "4019.86",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n16fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1019"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1019"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1019"
+          }
+        }
+      },
+      {
+        "neuron_id": 1020,
+        "neuron_name": "n17fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "Control"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "1330.56",
+        "surface": "5853.83",
+        "volume": "1764.06",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n17fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1020"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1020"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1020"
+          }
+        }
+      },
+      {
+        "neuron_id": 1021,
+        "neuron_name": "n18fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "N-cadherin overexpression"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "648.7",
+        "surface": "5244.56",
+        "volume": "1350.43",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n18fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1021"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1021"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1021"
+          }
+        }
+      },
+      {
+        "neuron_id": 1022,
+        "neuron_name": "n19fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "Beta-catenin overexpression"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "885.73",
+        "surface": "11097.2",
+        "volume": "3076.02",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n19fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1022"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1022"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1022"
+          }
+        }
+      },
+      {
+        "neuron_id": 1023,
+        "neuron_name": "n1fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "Control"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "1180.41",
+        "surface": "1749.08",
+        "volume": "431.54",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n1fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1023"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1023"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1023"
+          }
+        }
+      },
+      {
+        "neuron_id": 1024,
+        "neuron_name": "n20fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "Beta-catenin overexpression"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "1035.31",
+        "surface": "9072.24",
+        "volume": "3006.99",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n20fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1024"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1024"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1024"
+          }
+        }
+      },
+      {
+        "neuron_id": 1025,
+        "neuron_name": "n21fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "N-cadherin overexpression"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "751.67",
+        "surface": "4612.16",
+        "volume": "1671.37",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n21fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1025"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1025"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1025"
+          }
+        }
+      },
+      {
+        "neuron_id": 1026,
+        "neuron_name": "n22fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "Control"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "529.25",
+        "surface": "5869.68",
+        "volume": "1809.3",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n22fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1026"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1026"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1026"
+          }
+        }
+      },
+      {
+        "neuron_id": 1027,
+        "neuron_name": "n23fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "Beta-catenin overexpression"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "1384.02",
+        "surface": "10309.0",
+        "volume": "2938.84",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n23fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1027"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1027"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1027"
+          }
+        }
+      },
+      {
+        "neuron_id": 1028,
+        "neuron_name": "n24fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "Control"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "920.91",
+        "surface": "4716.57",
+        "volume": "1496.77",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n24fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1028"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1028"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1028"
+          }
+        }
+      },
+      {
+        "neuron_id": 1029,
+        "neuron_name": "n25fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "Control"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "1017.82",
+        "surface": "4946.79",
+        "volume": "1437.98",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n25fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1029"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1029"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1029"
+          }
+        }
+      },
+      {
+        "neuron_id": 1030,
+        "neuron_name": "n26fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "Control"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "658.34",
+        "surface": "4435.46",
+        "volume": "1101.23",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n26fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1030"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1030"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1030"
+          }
+        }
+      },
+      {
+        "neuron_id": 1031,
+        "neuron_name": "n27fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "Beta-catenin overexpression"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "1310.26",
+        "surface": "8063.26",
+        "volume": "2019.45",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n27fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1031"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1031"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1031"
+          }
+        }
+      },
+      {
+        "neuron_id": 1032,
+        "neuron_name": "n28fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "Beta-catenin overexpression"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "220.26",
+        "surface": "2074.04",
+        "volume": "328.85",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n28fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1032"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1032"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1032"
+          }
+        }
+      },
+      {
+        "neuron_id": 1033,
+        "neuron_name": "n29fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "Beta-catenin overexpression"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "563.15",
+        "surface": "6936.34",
+        "volume": "2104.61",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n29fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1033"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1033"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1033"
+          }
+        }
+      },
+      {
+        "neuron_id": 1034,
+        "neuron_name": "n2fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "Control"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "1099.26",
+        "surface": "2458.26",
+        "volume": "702.28",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n2fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1034"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1034"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1034"
+          }
+        }
+      },
+      {
+        "neuron_id": 1035,
+        "neuron_name": "n3fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "Control"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "1037.35",
+        "surface": "3717.61",
+        "volume": "784.46",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n3fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1035"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1035"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1035"
+          }
+        }
+      },
+      {
+        "neuron_id": 1036,
+        "neuron_name": "n4fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "N-cadherin overexpression"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "566.86",
+        "surface": "1015.26",
+        "volume": "245.86",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n4fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1036"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1036"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1036"
+          }
+        }
+      },
+      {
+        "neuron_id": 1037,
+        "neuron_name": "n5fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "N-cadherin overexpression"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "551.32",
+        "surface": "2625.11",
+        "volume": "726.0",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n5fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1037"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1037"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1037"
+          }
+        }
+      },
+      {
+        "neuron_id": 1038,
+        "neuron_name": "n6fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "N-cadherin overexpression"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "959.84",
+        "surface": "4270.1",
+        "volume": "2380.52",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n6fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1038"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1038"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1038"
+          }
+        }
+      },
+      {
+        "neuron_id": 1039,
+        "neuron_name": "n7fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "N-cadherin overexpression"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "1231.7",
+        "surface": "2377.55",
+        "volume": "565.18",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n7fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1039"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1039"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1039"
+          }
+        }
+      },
+      {
+        "neuron_id": 1040,
+        "neuron_name": "n8fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "Control"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "609.24",
+        "surface": "2466.42",
+        "volume": "709.6",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n8fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1040"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1040"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1040"
+          }
+        }
+      },
+      {
+        "neuron_id": 1041,
+        "neuron_name": "n9fts",
+        "archive": "Ascoli",
+        "note": "",
+        "age_scale": "Day",
+        "gender": "Not reported",
+        "age_classification": "neonatal",
+        "brain_region": [
+          "hippocampus"
+        ],
+        "cell_type": [
+          "pyramidal",
+          "principal cell"
+        ],
+        "species": "rat",
+        "strain": "Sprague-Dawley",
+        "scientific_name": "rattus norvegicus",
+        "stain": "green fluorescent protein",
+        "experiment_condition": [
+          "Beta-catenin overexpression"
+        ],
+        "protocol": "culture",
+        "slicing_direction": "Not reported",
+        "reconstruction_software": "Neuron_Morpho",
+        "objective_type": "oil",
+        "original_format": "Neuron_Morpho.swc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "40",
+        "upload_date": "2006-11-20",
+        "deposition_date": "2006-09-29",
+        "shrinkage_reported": "Not Reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "884.51",
+        "surface": "6145.95",
+        "volume": "1463.25",
+        "slicing_thickness": "Not reported",
+        "min_age": "0.0",
+        "max_age": "0.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/n9fts.png",
+        "reference_pmid": [
+          "16946239",
+          "14528308"
+        ],
+        "reference_doi": [
+          "10.2307/4134575",
+          "10.1038/nn1132"
+        ],
+        "physical_Integrity": "Dendrites Moderate",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/1041"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/1041"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/1041"
+          }
+        }
+      },
+      {
+        "neuron_id": 145846,
+        "neuron_name": "form3-OE_L5D6_MT_Fact",
+        "archive": "Ascoli",
+        "note": "All reconstructions from this paper are enhanced multi-signal swc (eswc) files. The original image stacks had two channels: Red for Microtubule and Green for F-actin. The multi-signal information (with four columns, two each for microtubule and F-actin) is at the bottom half of the source file,  after the 7 column swc neuron tree (after the tag #CHANNELSWC at the middle of the eswc file). For each signal, the first column indicates fraction of volume occupied and the second column indicates average intensity. Signal information and the neuron tree have the same number of rows.",
+        "age_scale": "Day",
+        "gender": "Male/Female",
+        "age_classification": "larval",
+        "brain_region": [
+          "peripheral nervous system",
+          "cuticle",
+          "abdominal",
+          "segment 4-7"
+        ],
+        "cell_type": [
+          "sensory",
+          "Multidendritic-dendritic arborization (DA)",
+          "class IV",
+          "ddaC"
+        ],
+        "species": "drosophila melanogaster",
+        "strain": "Formin3 Overexpressed melanogaster",
+        "scientific_name": null,
+        "stain": "Green, Red fluorescent protein",
+        "experiment_condition": [
+          "Form3OE"
+        ],
+        "protocol": "in vivo",
+        "slicing_direction": "whole mount",
+        "reconstruction_software": "neuTube",
+        "objective_type": "dry",
+        "original_format": "neuTube.eswc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "20",
+        "upload_date": "2020-12-11",
+        "deposition_date": "2020-12-09",
+        "shrinkage_reported": "Not reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "415.357",
+        "surface": "61868.7",
+        "volume": "29789.8",
+        "slicing_thickness": "Not applicable",
+        "min_age": "5.0",
+        "max_age": "7.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/form3-OE_L5D6_MT_Fact.png",
+        "reference_pmid": [
+          "-26"
+        ],
+        "reference_doi": [
+          "10.1016/j.isci.2020.101865"
+        ],
+        "physical_Integrity": "Dendrites Complete",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/145846"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/145846"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/145846"
+          }
+        }
+      },
+      {
+        "neuron_id": 145847,
+        "neuron_name": "form3-OE_L1D4_MT_Fact",
+        "archive": "Ascoli",
+        "note": "All reconstructions from this paper are enhanced multi-signal swc (eswc) files. The original image stacks had two channels: Red for Microtubule and Green for F-actin. The multi-signal information (with four columns, two each for microtubule and F-actin) is at the bottom half of the source file,  after the 7 column swc neuron tree (after the tag #CHANNELSWC at the middle of the eswc file). For each signal, the first column indicates fraction of volume occupied and the second column indicates average intensity. Signal information and the neuron tree have the same number of rows.",
+        "age_scale": "Day",
+        "gender": "Male/Female",
+        "age_classification": "larval",
+        "brain_region": [
+          "peripheral nervous system",
+          "cuticle",
+          "abdominal",
+          "segment 4-7"
+        ],
+        "cell_type": [
+          "sensory",
+          "Multidendritic-dendritic arborization (DA)",
+          "class IV",
+          "ddaC"
+        ],
+        "species": "drosophila melanogaster",
+        "strain": "Formin3 Overexpressed melanogaster",
+        "scientific_name": null,
+        "stain": "Green, Red fluorescent protein",
+        "experiment_condition": [
+          "Form3OE"
+        ],
+        "protocol": "in vivo",
+        "slicing_direction": "whole mount",
+        "reconstruction_software": "neuTube",
+        "objective_type": "dry",
+        "original_format": "neuTube.eswc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "20",
+        "upload_date": "2020-12-11",
+        "deposition_date": "2020-12-09",
+        "shrinkage_reported": "Not reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "339.765",
+        "surface": "70824.7",
+        "volume": "32948.0",
+        "slicing_thickness": "Not applicable",
+        "min_age": "5.0",
+        "max_age": "7.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/form3-OE_L1D4_MT_Fact.png",
+        "reference_pmid": [
+          "-26"
+        ],
+        "reference_doi": [
+          "10.1016/j.isci.2020.101865"
+        ],
+        "physical_Integrity": "Dendrites Complete",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/145847"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/145847"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/145847"
+          }
+        }
+      },
+      {
+        "neuron_id": 145848,
+        "neuron_name": "form3-OE_L3D5_MT_Fact",
+        "archive": "Ascoli",
+        "note": "All reconstructions from this paper are enhanced multi-signal swc (eswc) files. The original image stacks had two channels: Red for Microtubule and Green for F-actin. The multi-signal information (with four columns, two each for microtubule and F-actin) is at the bottom half of the source file,  after the 7 column swc neuron tree (after the tag #CHANNELSWC at the middle of the eswc file). For each signal, the first column indicates fraction of volume occupied and the second column indicates average intensity. Signal information and the neuron tree have the same number of rows.",
+        "age_scale": "Day",
+        "gender": "Male/Female",
+        "age_classification": "larval",
+        "brain_region": [
+          "peripheral nervous system",
+          "cuticle",
+          "abdominal",
+          "segment 4-7"
+        ],
+        "cell_type": [
+          "sensory",
+          "Multidendritic-dendritic arborization (DA)",
+          "class IV",
+          "ddaC"
+        ],
+        "species": "drosophila melanogaster",
+        "strain": "Formin3 Overexpressed melanogaster",
+        "scientific_name": null,
+        "stain": "Green, Red fluorescent protein",
+        "experiment_condition": [
+          "Form3OE"
+        ],
+        "protocol": "in vivo",
+        "slicing_direction": "whole mount",
+        "reconstruction_software": "neuTube",
+        "objective_type": "dry",
+        "original_format": "neuTube.eswc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "20",
+        "upload_date": "2020-12-11",
+        "deposition_date": "2020-12-09",
+        "shrinkage_reported": "Not reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "316.201",
+        "surface": "72073.0",
+        "volume": "34857.6",
+        "slicing_thickness": "Not applicable",
+        "min_age": "5.0",
+        "max_age": "7.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/form3-OE_L3D5_MT_Fact.png",
+        "reference_pmid": [
+          "-26"
+        ],
+        "reference_doi": [
+          "10.1016/j.isci.2020.101865"
+        ],
+        "physical_Integrity": "Dendrites Complete",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/145848"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/145848"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/145848"
+          }
+        }
+      },
+      {
+        "neuron_id": 145849,
+        "neuron_name": "WT_L4D6_MT_Fact",
+        "archive": "Ascoli",
+        "note": "All reconstructions from this paper are enhanced multi-signal swc (eswc) files. The original image stacks had two channels: Red for Microtubule and Green for F-actin. The multi-signal information (with four columns, two each for microtubule and F-actin) is at the bottom half of the source file,  after the 7 column swc neuron tree (after the tag #CHANNELSWC at the middle of the eswc file). For each signal, the first column indicates fraction of volume occupied and the second column indicates average intensity. Signal information and the neuron tree have the same number of rows.",
+        "age_scale": "Day",
+        "gender": "Male/Female",
+        "age_classification": "larval",
+        "brain_region": [
+          "peripheral nervous system",
+          "cuticle",
+          "abdominal",
+          "segment 4-7"
+        ],
+        "cell_type": [
+          "sensory",
+          "Multidendritic-dendritic arborization (DA)",
+          "class IV",
+          "ddaC"
+        ],
+        "species": "drosophila melanogaster",
+        "strain": "wild-type melanogaster",
+        "scientific_name": null,
+        "stain": "Green, Red fluorescent protein",
+        "experiment_condition": [
+          "Control"
+        ],
+        "protocol": "in vivo",
+        "slicing_direction": "whole mount",
+        "reconstruction_software": "neuTube",
+        "objective_type": "dry",
+        "original_format": "neuTube.eswc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "20",
+        "upload_date": "2020-12-11",
+        "deposition_date": "2020-12-09",
+        "shrinkage_reported": "Not reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "398.892",
+        "surface": "100510.0",
+        "volume": "44019.0",
+        "slicing_thickness": "Not applicable",
+        "min_age": "5.0",
+        "max_age": "7.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/WT_L4D6_MT_Fact.png",
+        "reference_pmid": [
+          "-26"
+        ],
+        "reference_doi": [
+          "10.1016/j.isci.2020.101865"
+        ],
+        "physical_Integrity": "Dendrites Complete",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/145849"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/145849"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/145849"
+          }
+        }
+      },
+      {
+        "neuron_id": 145850,
+        "neuron_name": "WT_L3D5_MT_Fact",
+        "archive": "Ascoli",
+        "note": "All reconstructions from this paper are enhanced multi-signal swc (eswc) files. The original image stacks had two channels: Red for Microtubule and Green for F-actin. The multi-signal information (with four columns, two each for microtubule and F-actin) is at the bottom half of the source file,  after the 7 column swc neuron tree (after the tag #CHANNELSWC at the middle of the eswc file). For each signal, the first column indicates fraction of volume occupied and the second column indicates average intensity. Signal information and the neuron tree have the same number of rows.",
+        "age_scale": "Day",
+        "gender": "Male/Female",
+        "age_classification": "larval",
+        "brain_region": [
+          "peripheral nervous system",
+          "cuticle",
+          "abdominal",
+          "segment 4-7"
+        ],
+        "cell_type": [
+          "sensory",
+          "Multidendritic-dendritic arborization (DA)",
+          "class IV",
+          "ddaC"
+        ],
+        "species": "drosophila melanogaster",
+        "strain": "wild-type melanogaster",
+        "scientific_name": null,
+        "stain": "Green, Red fluorescent protein",
+        "experiment_condition": [
+          "Control"
+        ],
+        "protocol": "in vivo",
+        "slicing_direction": "whole mount",
+        "reconstruction_software": "neuTube",
+        "objective_type": "dry",
+        "original_format": "neuTube.eswc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "20",
+        "upload_date": "2020-12-11",
+        "deposition_date": "2020-12-09",
+        "shrinkage_reported": "Not reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "436.759",
+        "surface": "78567.8",
+        "volume": "29356.2",
+        "slicing_thickness": "Not applicable",
+        "min_age": "5.0",
+        "max_age": "7.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/WT_L3D5_MT_Fact.png",
+        "reference_pmid": [
+          "-26"
+        ],
+        "reference_doi": [
+          "10.1016/j.isci.2020.101865"
+        ],
+        "physical_Integrity": "Dendrites Complete",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/145850"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/145850"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/145850"
+          }
+        }
+      },
+      {
+        "neuron_id": 145851,
+        "neuron_name": "L8D5ddaE_MT_Fact",
+        "archive": "Ascoli",
+        "note": "All reconstructions from this paper are enhanced multi-signal swc (eswc) files. The original image stacks had two channels: Red for Microtubule and Green for F-actin. The multi-signal information (with four columns, two each for microtubule and F-actin) is at the bottom half of the source file,  after the 7 column swc neuron tree (after the tag #CHANNELSWC at the middle of the eswc file). For each signal, the first column indicates fraction of volume occupied and the second column indicates average intensity. Signal information and the neuron tree have the same number of rows.",
+        "age_scale": "Day",
+        "gender": "Male/Female",
+        "age_classification": "larval",
+        "brain_region": [
+          "peripheral nervous system",
+          "cuticle",
+          "abdominal",
+          "segment 4-7"
+        ],
+        "cell_type": [
+          "sensory",
+          "Multidendritic-dendritic arborization (DA)",
+          "Class I",
+          "ddaE"
+        ],
+        "species": "drosophila melanogaster",
+        "strain": "wild-type melanogaster",
+        "scientific_name": null,
+        "stain": "Green, Red fluorescent protein",
+        "experiment_condition": [
+          "Control"
+        ],
+        "protocol": "in vivo",
+        "slicing_direction": "whole mount",
+        "reconstruction_software": "neuTube",
+        "objective_type": "dry",
+        "original_format": "neuTube.eswc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "20",
+        "upload_date": "2020-12-11",
+        "deposition_date": "2020-12-09",
+        "shrinkage_reported": "Not reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "212.621",
+        "surface": "7383.56",
+        "volume": "2818.59",
+        "slicing_thickness": "Not applicable",
+        "min_age": "5.0",
+        "max_age": "7.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/L8D5ddaE_MT_Fact.png",
+        "reference_pmid": [
+          "-26"
+        ],
+        "reference_doi": [
+          "10.1016/j.isci.2020.101865"
+        ],
+        "physical_Integrity": "Dendrites Complete",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/145851"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/145851"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/145851"
+          }
+        }
+      },
+      {
+        "neuron_id": 145852,
+        "neuron_name": "form3-OE_L2D5_MT_Fact",
+        "archive": "Ascoli",
+        "note": "All reconstructions from this paper are enhanced multi-signal swc (eswc) files. The original image stacks had two channels: Red for Microtubule and Green for F-actin. The multi-signal information (with four columns, two each for microtubule and F-actin) is at the bottom half of the source file,  after the 7 column swc neuron tree (after the tag #CHANNELSWC at the middle of the eswc file). For each signal, the first column indicates fraction of volume occupied and the second column indicates average intensity. Signal information and the neuron tree have the same number of rows.",
+        "age_scale": "Day",
+        "gender": "Male/Female",
+        "age_classification": "larval",
+        "brain_region": [
+          "peripheral nervous system",
+          "cuticle",
+          "abdominal",
+          "segment 4-7"
+        ],
+        "cell_type": [
+          "sensory",
+          "Multidendritic-dendritic arborization (DA)",
+          "class IV",
+          "ddaC"
+        ],
+        "species": "drosophila melanogaster",
+        "strain": "Formin3 Overexpressed melanogaster",
+        "scientific_name": null,
+        "stain": "Green, Red fluorescent protein",
+        "experiment_condition": [
+          "Form3OE"
+        ],
+        "protocol": "in vivo",
+        "slicing_direction": "whole mount",
+        "reconstruction_software": "neuTube",
+        "objective_type": "dry",
+        "original_format": "neuTube.eswc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "20",
+        "upload_date": "2020-12-11",
+        "deposition_date": "2020-12-09",
+        "shrinkage_reported": "Not reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "293.138",
+        "surface": "56876.6",
+        "volume": "25396.9",
+        "slicing_thickness": "Not applicable",
+        "min_age": "5.0",
+        "max_age": "7.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/form3-OE_L2D5_MT_Fact.png",
+        "reference_pmid": [
+          "-26"
+        ],
+        "reference_doi": [
+          "10.1016/j.isci.2020.101865"
+        ],
+        "physical_Integrity": "Dendrites Complete",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/145852"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/145852"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/145852"
+          }
+        }
+      },
+      {
+        "neuron_id": 145853,
+        "neuron_name": "L6D5ddaE_MT_Fact",
+        "archive": "Ascoli",
+        "note": "All reconstructions from this paper are enhanced multi-signal swc (eswc) files. The original image stacks had two channels: Red for Microtubule and Green for F-actin. The multi-signal information (with four columns, two each for microtubule and F-actin) is at the bottom half of the source file,  after the 7 column swc neuron tree (after the tag #CHANNELSWC at the middle of the eswc file). For each signal, the first column indicates fraction of volume occupied and the second column indicates average intensity. Signal information and the neuron tree have the same number of rows.",
+        "age_scale": "Day",
+        "gender": "Male/Female",
+        "age_classification": "larval",
+        "brain_region": [
+          "peripheral nervous system",
+          "cuticle",
+          "abdominal",
+          "segment 4-7"
+        ],
+        "cell_type": [
+          "sensory",
+          "Multidendritic-dendritic arborization (DA)",
+          "Class I",
+          "ddaE"
+        ],
+        "species": "drosophila melanogaster",
+        "strain": "wild-type melanogaster",
+        "scientific_name": null,
+        "stain": "Green, Red fluorescent protein",
+        "experiment_condition": [
+          "Control"
+        ],
+        "protocol": "in vivo",
+        "slicing_direction": "whole mount",
+        "reconstruction_software": "neuTube",
+        "objective_type": "dry",
+        "original_format": "neuTube.eswc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "20",
+        "upload_date": "2020-12-11",
+        "deposition_date": "2020-12-09",
+        "shrinkage_reported": "Not reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "176.916",
+        "surface": "8977.4",
+        "volume": "3631.6",
+        "slicing_thickness": "Not applicable",
+        "min_age": "5.0",
+        "max_age": "7.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/L6D5ddaE_MT_Fact.png",
+        "reference_pmid": [
+          "-26"
+        ],
+        "reference_doi": [
+          "10.1016/j.isci.2020.101865"
+        ],
+        "physical_Integrity": "Dendrites Complete",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/145853"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/145853"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/145853"
+          }
+        }
+      },
+      {
+        "neuron_id": 145854,
+        "neuron_name": "form3-OE_L2D6_MT_Fact",
+        "archive": "Ascoli",
+        "note": "All reconstructions from this paper are enhanced multi-signal swc (eswc) files. The original image stacks had two channels: Red for Microtubule and Green for F-actin. The multi-signal information (with four columns, two each for microtubule and F-actin) is at the bottom half of the source file,  after the 7 column swc neuron tree (after the tag #CHANNELSWC at the middle of the eswc file). For each signal, the first column indicates fraction of volume occupied and the second column indicates average intensity. Signal information and the neuron tree have the same number of rows.",
+        "age_scale": "Day",
+        "gender": "Male/Female",
+        "age_classification": "larval",
+        "brain_region": [
+          "peripheral nervous system",
+          "cuticle",
+          "abdominal",
+          "segment 4-7"
+        ],
+        "cell_type": [
+          "sensory",
+          "Multidendritic-dendritic arborization (DA)",
+          "class IV",
+          "ddaC"
+        ],
+        "species": "drosophila melanogaster",
+        "strain": "Formin3 Overexpressed melanogaster",
+        "scientific_name": null,
+        "stain": "Green, Red fluorescent protein",
+        "experiment_condition": [
+          "Form3OE"
+        ],
+        "protocol": "in vivo",
+        "slicing_direction": "whole mount",
+        "reconstruction_software": "neuTube",
+        "objective_type": "dry",
+        "original_format": "neuTube.eswc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "20",
+        "upload_date": "2020-12-11",
+        "deposition_date": "2020-12-09",
+        "shrinkage_reported": "Not reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "627.621",
+        "surface": "73657.1",
+        "volume": "35205.3",
+        "slicing_thickness": "Not applicable",
+        "min_age": "5.0",
+        "max_age": "7.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/form3-OE_L2D6_MT_Fact.png",
+        "reference_pmid": [
+          "-26"
+        ],
+        "reference_doi": [
+          "10.1016/j.isci.2020.101865"
+        ],
+        "physical_Integrity": "Dendrites Complete",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/145854"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/145854"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/145854"
+          }
+        }
+      },
+      {
+        "neuron_id": 145855,
+        "neuron_name": "form3-OE_L7D5_MT_Fact",
+        "archive": "Ascoli",
+        "note": "All reconstructions from this paper are enhanced multi-signal swc (eswc) files. The original image stacks had two channels: Red for Microtubule and Green for F-actin. The multi-signal information (with four columns, two each for microtubule and F-actin) is at the bottom half of the source file,  after the 7 column swc neuron tree (after the tag #CHANNELSWC at the middle of the eswc file). For each signal, the first column indicates fraction of volume occupied and the second column indicates average intensity. Signal information and the neuron tree have the same number of rows.",
+        "age_scale": "Day",
+        "gender": "Male/Female",
+        "age_classification": "larval",
+        "brain_region": [
+          "peripheral nervous system",
+          "cuticle",
+          "abdominal",
+          "segment 4-7"
+        ],
+        "cell_type": [
+          "sensory",
+          "Multidendritic-dendritic arborization (DA)",
+          "class IV",
+          "ddaC"
+        ],
+        "species": "drosophila melanogaster",
+        "strain": "Formin3 Overexpressed melanogaster",
+        "scientific_name": null,
+        "stain": "Green, Red fluorescent protein",
+        "experiment_condition": [
+          "Form3OE"
+        ],
+        "protocol": "in vivo",
+        "slicing_direction": "whole mount",
+        "reconstruction_software": "neuTube",
+        "objective_type": "dry",
+        "original_format": "neuTube.eswc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "20",
+        "upload_date": "2020-12-11",
+        "deposition_date": "2020-12-09",
+        "shrinkage_reported": "Not reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "323.396",
+        "surface": "69146.2",
+        "volume": "34864.9",
+        "slicing_thickness": "Not applicable",
+        "min_age": "5.0",
+        "max_age": "7.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/form3-OE_L7D5_MT_Fact.png",
+        "reference_pmid": [
+          "-26"
+        ],
+        "reference_doi": [
+          "10.1016/j.isci.2020.101865"
+        ],
+        "physical_Integrity": "Dendrites Complete",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/145855"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/145855"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/145855"
+          }
+        }
+      },
+      {
+        "neuron_id": 145856,
+        "neuron_name": "L7D5ddaE_MT_Fact",
+        "archive": "Ascoli",
+        "note": "All reconstructions from this paper are enhanced multi-signal swc (eswc) files. The original image stacks had two channels: Red for Microtubule and Green for F-actin. The multi-signal information (with four columns, two each for microtubule and F-actin) is at the bottom half of the source file,  after the 7 column swc neuron tree (after the tag #CHANNELSWC at the middle of the eswc file). For each signal, the first column indicates fraction of volume occupied and the second column indicates average intensity. Signal information and the neuron tree have the same number of rows.",
+        "age_scale": "Day",
+        "gender": "Male/Female",
+        "age_classification": "larval",
+        "brain_region": [
+          "peripheral nervous system",
+          "cuticle",
+          "abdominal",
+          "segment 4-7"
+        ],
+        "cell_type": [
+          "sensory",
+          "Multidendritic-dendritic arborization (DA)",
+          "Class I",
+          "ddaE"
+        ],
+        "species": "drosophila melanogaster",
+        "strain": "wild-type melanogaster",
+        "scientific_name": null,
+        "stain": "Green, Red fluorescent protein",
+        "experiment_condition": [
+          "Control"
+        ],
+        "protocol": "in vivo",
+        "slicing_direction": "whole mount",
+        "reconstruction_software": "neuTube",
+        "objective_type": "dry",
+        "original_format": "neuTube.eswc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "20",
+        "upload_date": "2020-12-11",
+        "deposition_date": "2020-12-09",
+        "shrinkage_reported": "Not reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "179.964",
+        "surface": "7202.23",
+        "volume": "2656.94",
+        "slicing_thickness": "Not applicable",
+        "min_age": "5.0",
+        "max_age": "7.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/L7D5ddaE_MT_Fact.png",
+        "reference_pmid": [
+          "-26"
+        ],
+        "reference_doi": [
+          "10.1016/j.isci.2020.101865"
+        ],
+        "physical_Integrity": "Dendrites Complete",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/145856"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/145856"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/145856"
+          }
+        }
+      },
+      {
+        "neuron_id": 145857,
+        "neuron_name": "L1D6AddaE_MT_Fact",
+        "archive": "Ascoli",
+        "note": "All reconstructions from this paper are enhanced multi-signal swc (eswc) files. The original image stacks had two channels: Red for Microtubule and Green for F-actin. The multi-signal information (with four columns, two each for microtubule and F-actin) is at the bottom half of the source file,  after the 7 column swc neuron tree (after the tag #CHANNELSWC at the middle of the eswc file). For each signal, the first column indicates fraction of volume occupied and the second column indicates average intensity. Signal information and the neuron tree have the same number of rows.",
+        "age_scale": "Day",
+        "gender": "Male/Female",
+        "age_classification": "larval",
+        "brain_region": [
+          "peripheral nervous system",
+          "cuticle",
+          "abdominal",
+          "segment 4-7"
+        ],
+        "cell_type": [
+          "sensory",
+          "Multidendritic-dendritic arborization (DA)",
+          "Class I",
+          "ddaE"
+        ],
+        "species": "drosophila melanogaster",
+        "strain": "wild-type melanogaster",
+        "scientific_name": null,
+        "stain": "Green, Red fluorescent protein",
+        "experiment_condition": [
+          "Control"
+        ],
+        "protocol": "in vivo",
+        "slicing_direction": "whole mount",
+        "reconstruction_software": "neuTube",
+        "objective_type": "dry",
+        "original_format": "neuTube.eswc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "20",
+        "upload_date": "2020-12-11",
+        "deposition_date": "2020-12-09",
+        "shrinkage_reported": "Not reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "178.971",
+        "surface": "6944.29",
+        "volume": "2486.86",
+        "slicing_thickness": "Not applicable",
+        "min_age": "5.0",
+        "max_age": "7.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/L1D6AddaE_MT_Fact.png",
+        "reference_pmid": [
+          "-26"
+        ],
+        "reference_doi": [
+          "10.1016/j.isci.2020.101865"
+        ],
+        "physical_Integrity": "Dendrites Complete",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/145857"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/145857"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/145857"
+          }
+        }
+      },
+      {
+        "neuron_id": 145858,
+        "neuron_name": "WT_L4D5_MT_Fact",
+        "archive": "Ascoli",
+        "note": "All reconstructions from this paper are enhanced multi-signal swc (eswc) files. The original image stacks had two channels: Red for Microtubule and Green for F-actin. The multi-signal information (with four columns, two each for microtubule and F-actin) is at the bottom half of the source file,  after the 7 column swc neuron tree (after the tag #CHANNELSWC at the middle of the eswc file). For each signal, the first column indicates fraction of volume occupied and the second column indicates average intensity. Signal information and the neuron tree have the same number of rows.",
+        "age_scale": "Day",
+        "gender": "Male/Female",
+        "age_classification": "larval",
+        "brain_region": [
+          "peripheral nervous system",
+          "cuticle",
+          "abdominal",
+          "segment 4-7"
+        ],
+        "cell_type": [
+          "sensory",
+          "Multidendritic-dendritic arborization (DA)",
+          "class IV",
+          "ddaC"
+        ],
+        "species": "drosophila melanogaster",
+        "strain": "wild-type melanogaster",
+        "scientific_name": null,
+        "stain": "Green, Red fluorescent protein",
+        "experiment_condition": [
+          "Control"
+        ],
+        "protocol": "in vivo",
+        "slicing_direction": "whole mount",
+        "reconstruction_software": "neuTube",
+        "objective_type": "dry",
+        "original_format": "neuTube.eswc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "20",
+        "upload_date": "2020-12-11",
+        "deposition_date": "2020-12-09",
+        "shrinkage_reported": "Not reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "301.835",
+        "surface": "91196.9",
+        "volume": "36274.6",
+        "slicing_thickness": "Not applicable",
+        "min_age": "5.0",
+        "max_age": "7.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/WT_L4D5_MT_Fact.png",
+        "reference_pmid": [
+          "-26"
+        ],
+        "reference_doi": [
+          "10.1016/j.isci.2020.101865"
+        ],
+        "physical_Integrity": "Dendrites Complete",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/145858"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/145858"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/145858"
+          }
+        }
+      },
+      {
+        "neuron_id": 145859,
+        "neuron_name": "WT_L5D5_MT_Fact",
+        "archive": "Ascoli",
+        "note": "All reconstructions from this paper are enhanced multi-signal swc (eswc) files. The original image stacks had two channels: Red for Microtubule and Green for F-actin. The multi-signal information (with four columns, two each for microtubule and F-actin) is at the bottom half of the source file,  after the 7 column swc neuron tree (after the tag #CHANNELSWC at the middle of the eswc file). For each signal, the first column indicates fraction of volume occupied and the second column indicates average intensity. Signal information and the neuron tree have the same number of rows.",
+        "age_scale": "Day",
+        "gender": "Male/Female",
+        "age_classification": "larval",
+        "brain_region": [
+          "peripheral nervous system",
+          "cuticle",
+          "abdominal",
+          "segment 4-7"
+        ],
+        "cell_type": [
+          "sensory",
+          "Multidendritic-dendritic arborization (DA)",
+          "class IV",
+          "ddaC"
+        ],
+        "species": "drosophila melanogaster",
+        "strain": "wild-type melanogaster",
+        "scientific_name": null,
+        "stain": "Green, Red fluorescent protein",
+        "experiment_condition": [
+          "Control"
+        ],
+        "protocol": "in vivo",
+        "slicing_direction": "whole mount",
+        "reconstruction_software": "neuTube",
+        "objective_type": "dry",
+        "original_format": "neuTube.eswc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "20",
+        "upload_date": "2020-12-11",
+        "deposition_date": "2020-12-09",
+        "shrinkage_reported": "Not reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "390.326",
+        "surface": "86165.4",
+        "volume": "34606.6",
+        "slicing_thickness": "Not applicable",
+        "min_age": "5.0",
+        "max_age": "7.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/WT_L5D5_MT_Fact.png",
+        "reference_pmid": [
+          "-26"
+        ],
+        "reference_doi": [
+          "10.1016/j.isci.2020.101865"
+        ],
+        "physical_Integrity": "Dendrites Complete",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/145859"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/145859"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/145859"
+          }
+        }
+      },
+      {
+        "neuron_id": 145860,
+        "neuron_name": "L5D5ddaE_MT_Fact",
+        "archive": "Ascoli",
+        "note": "All reconstructions from this paper are enhanced multi-signal swc (eswc) files. The original image stacks had two channels: Red for Microtubule and Green for F-actin. The multi-signal information (with four columns, two each for microtubule and F-actin) is at the bottom half of the source file,  after the 7 column swc neuron tree (after the tag #CHANNELSWC at the middle of the eswc file). For each signal, the first column indicates fraction of volume occupied and the second column indicates average intensity. Signal information and the neuron tree have the same number of rows.",
+        "age_scale": "Day",
+        "gender": "Male/Female",
+        "age_classification": "larval",
+        "brain_region": [
+          "peripheral nervous system",
+          "cuticle",
+          "abdominal",
+          "segment 4-7"
+        ],
+        "cell_type": [
+          "sensory",
+          "Multidendritic-dendritic arborization (DA)",
+          "Class I",
+          "ddaE"
+        ],
+        "species": "drosophila melanogaster",
+        "strain": "wild-type melanogaster",
+        "scientific_name": null,
+        "stain": "Green, Red fluorescent protein",
+        "experiment_condition": [
+          "Control"
+        ],
+        "protocol": "in vivo",
+        "slicing_direction": "whole mount",
+        "reconstruction_software": "neuTube",
+        "objective_type": "dry",
+        "original_format": "neuTube.eswc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "20",
+        "upload_date": "2020-12-11",
+        "deposition_date": "2020-12-09",
+        "shrinkage_reported": "Not reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "165.597",
+        "surface": "8406.16",
+        "volume": "3237.79",
+        "slicing_thickness": "Not applicable",
+        "min_age": "5.0",
+        "max_age": "7.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/L5D5ddaE_MT_Fact.png",
+        "reference_pmid": [
+          "-26"
+        ],
+        "reference_doi": [
+          "10.1016/j.isci.2020.101865"
+        ],
+        "physical_Integrity": "Dendrites Complete",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/145860"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/145860"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/145860"
+          }
+        }
+      },
+      {
+        "neuron_id": 145861,
+        "neuron_name": "L2D5ddaE_MT_Fact",
+        "archive": "Ascoli",
+        "note": "All reconstructions from this paper are enhanced multi-signal swc (eswc) files. The original image stacks had two channels: Red for Microtubule and Green for F-actin. The multi-signal information (with four columns, two each for microtubule and F-actin) is at the bottom half of the source file,  after the 7 column swc neuron tree (after the tag #CHANNELSWC at the middle of the eswc file). For each signal, the first column indicates fraction of volume occupied and the second column indicates average intensity. Signal information and the neuron tree have the same number of rows.",
+        "age_scale": "Day",
+        "gender": "Male/Female",
+        "age_classification": "larval",
+        "brain_region": [
+          "peripheral nervous system",
+          "cuticle",
+          "abdominal",
+          "segment 4-7"
+        ],
+        "cell_type": [
+          "sensory",
+          "Multidendritic-dendritic arborization (DA)",
+          "Class I",
+          "ddaE"
+        ],
+        "species": "drosophila melanogaster",
+        "strain": "wild-type melanogaster",
+        "scientific_name": null,
+        "stain": "Green, Red fluorescent protein",
+        "experiment_condition": [
+          "Control"
+        ],
+        "protocol": "in vivo",
+        "slicing_direction": "whole mount",
+        "reconstruction_software": "neuTube",
+        "objective_type": "dry",
+        "original_format": "neuTube.eswc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "20",
+        "upload_date": "2020-12-11",
+        "deposition_date": "2020-12-09",
+        "shrinkage_reported": "Not reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "159.172",
+        "surface": "8832.45",
+        "volume": "3255.06",
+        "slicing_thickness": "Not applicable",
+        "min_age": "5.0",
+        "max_age": "7.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/L2D5ddaE_MT_Fact.png",
+        "reference_pmid": [
+          "-26"
+        ],
+        "reference_doi": [
+          "10.1016/j.isci.2020.101865"
+        ],
+        "physical_Integrity": "Dendrites Complete",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/145861"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/145861"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/145861"
+          }
+        }
+      },
+      {
+        "neuron_id": 145862,
+        "neuron_name": "form3-OE_L10D6_MT_Fact",
+        "archive": "Ascoli",
+        "note": "All reconstructions from this paper are enhanced multi-signal swc (eswc) files. The original image stacks had two channels: Red for Microtubule and Green for F-actin. The multi-signal information (with four columns, two each for microtubule and F-actin) is at the bottom half of the source file,  after the 7 column swc neuron tree (after the tag #CHANNELSWC at the middle of the eswc file). For each signal, the first column indicates fraction of volume occupied and the second column indicates average intensity. Signal information and the neuron tree have the same number of rows.",
+        "age_scale": "Day",
+        "gender": "Male/Female",
+        "age_classification": "larval",
+        "brain_region": [
+          "peripheral nervous system",
+          "cuticle",
+          "abdominal",
+          "segment 4-7"
+        ],
+        "cell_type": [
+          "sensory",
+          "Multidendritic-dendritic arborization (DA)",
+          "class IV",
+          "ddaC"
+        ],
+        "species": "drosophila melanogaster",
+        "strain": "Formin3 Overexpressed melanogaster",
+        "scientific_name": null,
+        "stain": "Green, Red fluorescent protein",
+        "experiment_condition": [
+          "Form3OE"
+        ],
+        "protocol": "in vivo",
+        "slicing_direction": "whole mount",
+        "reconstruction_software": "neuTube",
+        "objective_type": "dry",
+        "original_format": "neuTube.eswc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "20",
+        "upload_date": "2020-12-11",
+        "deposition_date": "2020-12-09",
+        "shrinkage_reported": "Not reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "391.004",
+        "surface": "63713.3",
+        "volume": "29099.0",
+        "slicing_thickness": "Not applicable",
+        "min_age": "5.0",
+        "max_age": "7.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/form3-OE_L10D6_MT_Fact.png",
+        "reference_pmid": [
+          "-26"
+        ],
+        "reference_doi": [
+          "10.1016/j.isci.2020.101865"
+        ],
+        "physical_Integrity": "Dendrites Complete",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/145862"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/145862"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/145862"
+          }
+        }
+      },
+      {
+        "neuron_id": 145863,
+        "neuron_name": "L7D6ddaE_MT_Fact",
+        "archive": "Ascoli",
+        "note": "All reconstructions from this paper are enhanced multi-signal swc (eswc) files. The original image stacks had two channels: Red for Microtubule and Green for F-actin. The multi-signal information (with four columns, two each for microtubule and F-actin) is at the bottom half of the source file,  after the 7 column swc neuron tree (after the tag #CHANNELSWC at the middle of the eswc file). For each signal, the first column indicates fraction of volume occupied and the second column indicates average intensity. Signal information and the neuron tree have the same number of rows.",
+        "age_scale": "Day",
+        "gender": "Male/Female",
+        "age_classification": "larval",
+        "brain_region": [
+          "peripheral nervous system",
+          "cuticle",
+          "abdominal",
+          "segment 4-7"
+        ],
+        "cell_type": [
+          "sensory",
+          "Multidendritic-dendritic arborization (DA)",
+          "Class I",
+          "ddaE"
+        ],
+        "species": "drosophila melanogaster",
+        "strain": "wild-type melanogaster",
+        "scientific_name": null,
+        "stain": "Green, Red fluorescent protein",
+        "experiment_condition": [
+          "Control"
+        ],
+        "protocol": "in vivo",
+        "slicing_direction": "whole mount",
+        "reconstruction_software": "neuTube",
+        "objective_type": "dry",
+        "original_format": "neuTube.eswc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "20",
+        "upload_date": "2020-12-11",
+        "deposition_date": "2020-12-09",
+        "shrinkage_reported": "Not reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "187.19",
+        "surface": "6018.32",
+        "volume": "2391.12",
+        "slicing_thickness": "Not applicable",
+        "min_age": "5.0",
+        "max_age": "7.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/L7D6ddaE_MT_Fact.png",
+        "reference_pmid": [
+          "-26"
+        ],
+        "reference_doi": [
+          "10.1016/j.isci.2020.101865"
+        ],
+        "physical_Integrity": "Dendrites Complete",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/145863"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/145863"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/145863"
+          }
+        }
+      },
+      {
+        "neuron_id": 145864,
+        "neuron_name": "L4D5AddaE_MT_Fact",
+        "archive": "Ascoli",
+        "note": "All reconstructions from this paper are enhanced multi-signal swc (eswc) files. The original image stacks had two channels: Red for Microtubule and Green for F-actin. The multi-signal information (with four columns, two each for microtubule and F-actin) is at the bottom half of the source file,  after the 7 column swc neuron tree (after the tag #CHANNELSWC at the middle of the eswc file). For each signal, the first column indicates fraction of volume occupied and the second column indicates average intensity. Signal information and the neuron tree have the same number of rows.",
+        "age_scale": "Day",
+        "gender": "Male/Female",
+        "age_classification": "larval",
+        "brain_region": [
+          "peripheral nervous system",
+          "cuticle",
+          "abdominal",
+          "segment 4-7"
+        ],
+        "cell_type": [
+          "sensory",
+          "Multidendritic-dendritic arborization (DA)",
+          "Class I",
+          "ddaE"
+        ],
+        "species": "drosophila melanogaster",
+        "strain": "wild-type melanogaster",
+        "scientific_name": null,
+        "stain": "Green, Red fluorescent protein",
+        "experiment_condition": [
+          "Control"
+        ],
+        "protocol": "in vivo",
+        "slicing_direction": "whole mount",
+        "reconstruction_software": "neuTube",
+        "objective_type": "dry",
+        "original_format": "neuTube.eswc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "20",
+        "upload_date": "2020-12-11",
+        "deposition_date": "2020-12-09",
+        "shrinkage_reported": "Not reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "171.818",
+        "surface": "8000.25",
+        "volume": "3022.86",
+        "slicing_thickness": "Not applicable",
+        "min_age": "5.0",
+        "max_age": "7.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/L4D5AddaE_MT_Fact.png",
+        "reference_pmid": [
+          "-26"
+        ],
+        "reference_doi": [
+          "10.1016/j.isci.2020.101865"
+        ],
+        "physical_Integrity": "Dendrites Complete",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/145864"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/145864"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/145864"
+          }
+        }
+      },
+      {
+        "neuron_id": 145865,
+        "neuron_name": "L10D6ddaE_MT_Fact",
+        "archive": "Ascoli",
+        "note": "All reconstructions from this paper are enhanced multi-signal swc (eswc) files. The original image stacks had two channels: Red for Microtubule and Green for F-actin. The multi-signal information (with four columns, two each for microtubule and F-actin) is at the bottom half of the source file,  after the 7 column swc neuron tree (after the tag #CHANNELSWC at the middle of the eswc file). For each signal, the first column indicates fraction of volume occupied and the second column indicates average intensity. Signal information and the neuron tree have the same number of rows.",
+        "age_scale": "Day",
+        "gender": "Male/Female",
+        "age_classification": "larval",
+        "brain_region": [
+          "peripheral nervous system",
+          "cuticle",
+          "abdominal",
+          "segment 4-7"
+        ],
+        "cell_type": [
+          "sensory",
+          "Multidendritic-dendritic arborization (DA)",
+          "Class I",
+          "ddaE"
+        ],
+        "species": "drosophila melanogaster",
+        "strain": "wild-type melanogaster",
+        "scientific_name": null,
+        "stain": "Green, Red fluorescent protein",
+        "experiment_condition": [
+          "Control"
+        ],
+        "protocol": "in vivo",
+        "slicing_direction": "whole mount",
+        "reconstruction_software": "neuTube",
+        "objective_type": "dry",
+        "original_format": "neuTube.eswc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "20",
+        "upload_date": "2020-12-11",
+        "deposition_date": "2020-12-09",
+        "shrinkage_reported": "Not reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "118.746",
+        "surface": "7197.01",
+        "volume": "2757.41",
+        "slicing_thickness": "Not applicable",
+        "min_age": "5.0",
+        "max_age": "7.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/L10D6ddaE_MT_Fact.png",
+        "reference_pmid": [
+          "-26"
+        ],
+        "reference_doi": [
+          "10.1016/j.isci.2020.101865"
+        ],
+        "physical_Integrity": "Dendrites Complete",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/145865"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/145865"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/145865"
+          }
+        }
+      },
+      {
+        "neuron_id": 145866,
+        "neuron_name": "L8D7ddaE_MT_Fact",
+        "archive": "Ascoli",
+        "note": "All reconstructions from this paper are enhanced multi-signal swc (eswc) files. The original image stacks had two channels: Red for Microtubule and Green for F-actin. The multi-signal information (with four columns, two each for microtubule and F-actin) is at the bottom half of the source file,  after the 7 column swc neuron tree (after the tag #CHANNELSWC at the middle of the eswc file). For each signal, the first column indicates fraction of volume occupied and the second column indicates average intensity. Signal information and the neuron tree have the same number of rows.",
+        "age_scale": "Day",
+        "gender": "Male/Female",
+        "age_classification": "larval",
+        "brain_region": [
+          "peripheral nervous system",
+          "cuticle",
+          "abdominal",
+          "segment 4-7"
+        ],
+        "cell_type": [
+          "sensory",
+          "Multidendritic-dendritic arborization (DA)",
+          "Class I",
+          "ddaE"
+        ],
+        "species": "drosophila melanogaster",
+        "strain": "wild-type melanogaster",
+        "scientific_name": null,
+        "stain": "Green, Red fluorescent protein",
+        "experiment_condition": [
+          "Control"
+        ],
+        "protocol": "in vivo",
+        "slicing_direction": "whole mount",
+        "reconstruction_software": "neuTube",
+        "objective_type": "dry",
+        "original_format": "neuTube.eswc",
+        "domain": "Dendrites, Soma, No Axon",
+        "attributes": "Diameter, 2D, Angles",
+        "magnification": "20",
+        "upload_date": "2020-12-11",
+        "deposition_date": "2020-12-09",
+        "shrinkage_reported": "Not reported",
+        "shrinkage_corrected": "",
+        "reported_value": null,
+        "reported_xy": null,
+        "reported_z": null,
+        "corrected_value": null,
+        "corrected_xy": null,
+        "corrected_z": null,
+        "soma_surface": "163.662",
+        "surface": "8391.23",
+        "volume": "3108.78",
+        "slicing_thickness": "Not applicable",
+        "min_age": "5.0",
+        "max_age": "7.0",
+        "min_weight": "Not Reported",
+        "max_weight": "Not Reported",
+        "png_url": "http://neuromorpho.org/images/imageFiles/Ascoli/L8D7ddaE_MT_Fact.png",
+        "reference_pmid": [
+          "-26"
+        ],
+        "reference_doi": [
+          "10.1016/j.isci.2020.101865"
+        ],
+        "physical_Integrity": "Dendrites Complete",
+        "_links": {
+          "self": {
+            "href": "http://neuromorpho.org/api/neuron/id/145866"
+          },
+          "measurements": {
+            "href": "http://neuromorpho.org/api/morphometry/id/145866"
+          },
+          "persistence_vector": {
+            "href": "http://neuromorpho.org/api/pvec/id/145866"
+          }
+        }
+      }
+    ]
+  },
+  "page": {
+    "size": 50,
+    "totalElements": 380,
+    "totalPages": 8,
+    "number": 0
+  }
+}
