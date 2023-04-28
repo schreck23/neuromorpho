@@ -1,0 +1,379 @@
+Storing neuro sample with ID: 1013
+/Users/wfschrec/Downloads/neuromorpho/1013/n10fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeihlz7om73fgfwanbolwynm2m2ktpnt3su7gbdzzl6pavzaviwkagu
+/Users/wfschrec/Downloads/neuromorpho/1013/n10fts.swc -> https://edge.estuary.tech/ipfs/bafybeie2grmxjf5ac5on5glopthl5gyt5sp5626gc2ofzjlrgr2mir5v6u
+/Users/wfschrec/Downloads/neuromorpho/1013/n10fts.png -> https://edge.estuary.tech/ipfs/bafybeigbj4x3wwwouq2a2mh2kkecxr7raddb4xldkjxceouadcdvg7ngym
+/Users/wfschrec/Downloads/neuromorpho/1013/n10fts.self -> https://edge.estuary.tech/ipfs/bafybeibm3xv6cwiethvibrjthxy72tnt2ihmqq4chgox4eppryedupuegq
+/Users/wfschrec/Downloads/neuromorpho/1013/n10fts.measure -> https://edge.estuary.tech/ipfs/bafybeihlv7dce4gddgga5t6glgdk7dzt5xzcqgm7d4brlbejfk5oynfxkm
+/Users/wfschrec/Downloads/neuromorpho/1013/n10fts.persist -> https://edge.estuary.tech/ipfs/bafybeicipm3iugaiuanuyjpwb4khfuem5uxr4cbnnxbvfxbhsix2dvvsve
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeicobghhpjgduo2uiatvjv3odlnorgkn2outrtai4csmwdbku2zsei
+Storing neuro sample with ID: 1014
+/Users/wfschrec/Downloads/neuromorpho/1014/n11fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeibdsmhz4e6dh4ume3ynsaoxfjtvvtobcky7jhux536ge5kuhihncm
+/Users/wfschrec/Downloads/neuromorpho/1014/n11fts.swc -> https://edge.estuary.tech/ipfs/bafybeicj33c3bdudo6ubcbznpdn2c2ha4gn6k6qvyf36etmdwlk3om5k3m
+/Users/wfschrec/Downloads/neuromorpho/1014/n11fts.png -> https://edge.estuary.tech/ipfs/bafybeicu456snizfkts67mtpkhovcbkzhu4metu5eiuwrer4qyycudy4um
+/Users/wfschrec/Downloads/neuromorpho/1014/n11fts.self -> https://edge.estuary.tech/ipfs/bafybeiajnknusugkhwtfaynh5gw3gybi6ujhi4isv2st6djhe36caajflm
+/Users/wfschrec/Downloads/neuromorpho/1014/n11fts.measure -> https://edge.estuary.tech/ipfs/bafybeif4glaiwglshb66zw6mf75o4p5orayxenhi2isfessavzgj4ory5m
+/Users/wfschrec/Downloads/neuromorpho/1014/n11fts.persist -> https://edge.estuary.tech/ipfs/bafybeig63h3v3hyok5xyv5y3mmekrxrz35o3rwuzcjtx7ysjkr7fzd3koy
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeiaxjqw24u6tgq635tlve42srpmzfgqfxbahal2dlxao7m2pgyfaoa
+Storing neuro sample with ID: 1015
+/Users/wfschrec/Downloads/neuromorpho/1015/n12fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeibjme24wdi4udiapprl3nvhzt5g46uxqclahtu5ktv4d53y7ft3zu
+/Users/wfschrec/Downloads/neuromorpho/1015/n12fts.swc -> https://edge.estuary.tech/ipfs/bafybeiejpianfwthd7ta6ryprqktcbkp4m55ogwoa5viwmgetiwwpo6cxe
+/Users/wfschrec/Downloads/neuromorpho/1015/n12fts.png -> https://edge.estuary.tech/ipfs/bafybeiem5t22bxtayroli2a5afjpt2ammxp4rf7ais5tlasyft5xpho5yi
+/Users/wfschrec/Downloads/neuromorpho/1015/n12fts.self -> https://edge.estuary.tech/ipfs/bafybeif73f3xhmpzcho44akdwvhzcsqssc4okg5nzakwjip75mlw4me3ue
+/Users/wfschrec/Downloads/neuromorpho/1015/n12fts.measure -> https://edge.estuary.tech/ipfs/bafybeicbzwpflajzy4v2i2swg62v23ud4j5ekmm3vd3guhgpbbtd6wuv6u
+/Users/wfschrec/Downloads/neuromorpho/1015/n12fts.persist -> https://edge.estuary.tech/ipfs/bafybeibnsn55v43pfqo7rpnijjnv3pd5xmqioxz2rk7bbeb5vzci3xlsee
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeicew25vbcnipsczfz4645pk4qf2oudqjbhrn3os4u2nlhnm6rjo6u
+Storing neuro sample with ID: 1016
+/Users/wfschrec/Downloads/neuromorpho/1016/n13fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeihjk2r3sau2a4go3jcii63oi27cxcmnuycmlap2zdjlp5yxynrp4e
+/Users/wfschrec/Downloads/neuromorpho/1016/n13fts.swc -> https://edge.estuary.tech/ipfs/bafybeigtfof2fayjkunhj3mmfjpdsqn3y3snelm6zmifhfasie57pb4phu
+/Users/wfschrec/Downloads/neuromorpho/1016/n13fts.png -> https://edge.estuary.tech/ipfs/bafybeicawlwewgvinqsp43foiilcntssmklq3mub5wldqvrivqbusnllwa
+/Users/wfschrec/Downloads/neuromorpho/1016/n13fts.self -> https://edge.estuary.tech/ipfs/bafybeidwnn5utujrx4yqa6b2zuowtycjzmax5eyi5d5rm7bzeszpsmej3e
+/Users/wfschrec/Downloads/neuromorpho/1016/n13fts.measure -> https://edge.estuary.tech/ipfs/bafybeibi7gukspljems45psyh5phstqs6dmtrkksa6m5cyufozekdtuhom
+/Users/wfschrec/Downloads/neuromorpho/1016/n13fts.persist -> https://edge.estuary.tech/ipfs/bafybeib5kfdns7e4j3hp35hzvyczwf27h2ueep3osorf34cmy44kllbqr4
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeihjwaiofmdjwzcpaq44vpchyy5mjr2z7tsdmdovonjlhzqknzravm
+Storing neuro sample with ID: 1017
+/Users/wfschrec/Downloads/neuromorpho/1017/n14fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeicanxhvpkqilioerw7y4yz42l77agxsvfo6krkbjunwwmz4mh6kla
+/Users/wfschrec/Downloads/neuromorpho/1017/n14fts.swc -> https://edge.estuary.tech/ipfs/bafybeifycj5bxzgnj64xzs4okmcxchsi2mn4qspdxzgyb2dyhwlzjwxhgu
+/Users/wfschrec/Downloads/neuromorpho/1017/n14fts.png -> https://edge.estuary.tech/ipfs/bafybeidb7oqukori4oxmitgfn7hrc77fm6djiyqexnvgjlex4lwyxvjxey
+/Users/wfschrec/Downloads/neuromorpho/1017/n14fts.self -> https://edge.estuary.tech/ipfs/bafybeia3titdzasgkiqwkotmtzgq2ymnsoqdoxxdnstnmnbwpji4cowueq
+/Users/wfschrec/Downloads/neuromorpho/1017/n14fts.measure -> https://edge.estuary.tech/ipfs/bafybeiaizgrwzhmldfbhuwjxkyvpi27jtwyhslhwbympgqhziluqwwxytu
+/Users/wfschrec/Downloads/neuromorpho/1017/n14fts.persist -> https://edge.estuary.tech/ipfs/bafybeiej6t2g44z2dad4hu5ifg5spf5vcnh3h3qpjdw3jxlgbnwyegsu7i
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeibnajymm3etq6pnm3r7liooudrmsysvnf74m7k37yt7oeppz4w7s4
+Storing neuro sample with ID: 1018
+/Users/wfschrec/Downloads/neuromorpho/1018/n15fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeib6ffes45czjmx3m66346djsp36pxupqxf5forbdiofzephkexymu
+/Users/wfschrec/Downloads/neuromorpho/1018/n15fts.swc -> https://edge.estuary.tech/ipfs/bafybeifevorkffodxmmkwtvsyrebmnfhcdwlntknveylib2355rkzbbi2e
+/Users/wfschrec/Downloads/neuromorpho/1018/n15fts.png -> https://edge.estuary.tech/ipfs/bafybeiboaxn2x4dscgeyyohn5isdsqjxdgaa6gt2zscg5kvvgx6yau2n7u
+/Users/wfschrec/Downloads/neuromorpho/1018/n15fts.self -> https://edge.estuary.tech/ipfs/bafybeiaehjewroeln4urswqyimlge2az42zjxcatjvzcxkmbvpy7wpnmay
+/Users/wfschrec/Downloads/neuromorpho/1018/n15fts.measure -> https://edge.estuary.tech/ipfs/bafybeib2jzwnv77sf63fbqvdd7bt4bgclfdbyqftyqrmifxcq3i3euwmgq
+/Users/wfschrec/Downloads/neuromorpho/1018/n15fts.persist -> https://edge.estuary.tech/ipfs/bafybeielmekfd5u4zb4gptekfdwai55syp2qdaxuryq7y4sjkxqlctc3ki
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeiaqbryg56cvl6cavcu7ondqppbnpvc3mcqxupym25zzphkb24phke
+Storing neuro sample with ID: 1019
+/Users/wfschrec/Downloads/neuromorpho/1019/n16fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeiclxodgkvjwv7rmyu63vlhddwzap5mcylt7mqksxevuiqx3fs32ay
+/Users/wfschrec/Downloads/neuromorpho/1019/n16fts.swc -> https://edge.estuary.tech/ipfs/bafybeieo2ze3i24loigtqaem3h6rgrnfqut6zvzci4ngli7mqfi2upn22q
+/Users/wfschrec/Downloads/neuromorpho/1019/n16fts.png -> https://edge.estuary.tech/ipfs/bafybeibpbm3v7frlm3b6l6kanv2bs4gapuwiyiaiv65pcq5n2hqzuwreh4
+/Users/wfschrec/Downloads/neuromorpho/1019/n16fts.self -> https://edge.estuary.tech/ipfs/bafybeigrwlht2pu5vds73grblxlcv2l5imgwikmbhmyszqtuq74zw2kvhm
+/Users/wfschrec/Downloads/neuromorpho/1019/n16fts.measure -> https://edge.estuary.tech/ipfs/bafybeiaijzohozm7gjo3v7sx3g5yhnn66vd5akd5uwkivkgsptchg4wvee
+/Users/wfschrec/Downloads/neuromorpho/1019/n16fts.persist -> https://edge.estuary.tech/ipfs/bafybeih55mgstopyfpwvy275cy3jo7fjkwpupraggvbaofg6xcbjhynfre
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeih5twdmzreybl3kypq3s3k5riyevk3uvr5fn5v6sl3uftlnvz75ee
+Storing neuro sample with ID: 1020
+/Users/wfschrec/Downloads/neuromorpho/1020/n17fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeibyhovaueyv52fken6ewokcdjwluhgyclvro7yw4qstaguwcteb2m
+/Users/wfschrec/Downloads/neuromorpho/1020/n17fts.swc -> https://edge.estuary.tech/ipfs/bafybeiaxmf237fng6ykupzdro3ktz4danfis36rmw5als7tg3jimvvqxeq
+/Users/wfschrec/Downloads/neuromorpho/1020/n17fts.png -> https://edge.estuary.tech/ipfs/bafybeifgaewps4cokkoerottunjufqfelurpuhbu4t6vf5inyzv5yaqeqq
+/Users/wfschrec/Downloads/neuromorpho/1020/n17fts.self -> https://edge.estuary.tech/ipfs/bafybeiephik4ksdrgljqahrbyjt2fxu4qcfq4tuhkan7mpwuzwxv4b6loa
+/Users/wfschrec/Downloads/neuromorpho/1020/n17fts.measure -> https://edge.estuary.tech/ipfs/bafybeigii56dtqf7klyjwcws5l52kgt6ssw42br3gxx7zsdwbdfzr65ql4
+/Users/wfschrec/Downloads/neuromorpho/1020/n17fts.persist -> https://edge.estuary.tech/ipfs/bafybeiand7rmruhgcve7p525rhskjuhrutjkbigvngrvgurtdap2jx5shi
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeie6coiqyz25ahtzoy362scf4nleb4pnv7uxqdwduj6cfqphmtmztq
+Storing neuro sample with ID: 1021
+/Users/wfschrec/Downloads/neuromorpho/1021/n18fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeihkenh7xdz7uvyqhoexhjq7tz4mm4wccxzolnb774pf2m5fhskqky
+/Users/wfschrec/Downloads/neuromorpho/1021/n18fts.swc -> https://edge.estuary.tech/ipfs/bafybeicep7cnfcgactge7q7pzjzmgo6iuh57iibkcwmxdqre3wixb7svky
+/Users/wfschrec/Downloads/neuromorpho/1021/n18fts.png -> https://edge.estuary.tech/ipfs/bafybeifdlfypx6ho7gpatohdkesimypyeyf6q2zw6qdzpv6rsbwa5mmmpm
+/Users/wfschrec/Downloads/neuromorpho/1021/n18fts.self -> https://edge.estuary.tech/ipfs/bafybeiacrxkellr6ctsrhipmhkfzhyv2tkadt2bfzvbltoyqz5aucrlbee
+/Users/wfschrec/Downloads/neuromorpho/1021/n18fts.measure -> https://edge.estuary.tech/ipfs/bafybeig4oplh73l3xdmsxronze37b4jfj5m4qnmp5zddrx6egm5yiyae2q
+/Users/wfschrec/Downloads/neuromorpho/1021/n18fts.persist -> https://edge.estuary.tech/ipfs/bafybeidwbpu3q347bjai4jwjw3lmdxpapo2kewpx7r45qwex5qy3dxxn5e
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeigjntsxu4oclbmst26bizwzlpw6iw4s5y2n2eyxkvdut3ijpn5fzm
+Storing neuro sample with ID: 1022
+/Users/wfschrec/Downloads/neuromorpho/1022/n19fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeie5tgkvjjfcyl2km6swdvcgiugnycluaoxb6vvvvcnayc53q6pxu4
+/Users/wfschrec/Downloads/neuromorpho/1022/n19fts.swc -> https://edge.estuary.tech/ipfs/bafybeiggunacm2nobzrwbdyw4hfrslyckmctlm4dbj4tnulqkwiatorhlm
+/Users/wfschrec/Downloads/neuromorpho/1022/n19fts.png -> https://edge.estuary.tech/ipfs/bafybeidnj7rts75dclhhaiwz2socbg22c3fraiezqpjbbpak7rhhhyhpfi
+/Users/wfschrec/Downloads/neuromorpho/1022/n19fts.self -> https://edge.estuary.tech/ipfs/bafybeihl5qfq556m73k54syeanomxltj6goqssu5wwdeatotootyfrmtsm
+/Users/wfschrec/Downloads/neuromorpho/1022/n19fts.measure -> https://edge.estuary.tech/ipfs/bafybeic3gpg3kent4n4ubhii7gnfxeeddokgvp3qgkqfebvpangg2t2oba
+/Users/wfschrec/Downloads/neuromorpho/1022/n19fts.persist -> https://edge.estuary.tech/ipfs/bafybeihwqscqcu2mnz3gquu2kpr3rqrckjdgixvc6a3t3ijp7nirt6yvmm
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeih2ughzkhl4wzwuqjqcyuqq5wgvu5ileyxvwnmqu62znpbqpe3vru
+Storing neuro sample with ID: 1023
+/Users/wfschrec/Downloads/neuromorpho/1023/n1fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeieg7gfmn3eugxiuknibmlzshazvsby7jm3f5qcxx3dwn2guvcyrru
+/Users/wfschrec/Downloads/neuromorpho/1023/n1fts.swc -> https://edge.estuary.tech/ipfs/bafybeig6otniucbtidskaxfcbrkxmccdlge3yjql5of2grk5yncyjbqx4a
+/Users/wfschrec/Downloads/neuromorpho/1023/n1fts.png -> https://edge.estuary.tech/ipfs/bafybeidpqpubriu74fast2qhfjb4wcgezrvs4tmjaz7k2rdy2a4rb6x2qe
+/Users/wfschrec/Downloads/neuromorpho/1023/n1fts.self -> https://edge.estuary.tech/ipfs/bafybeiewwnrh2vnkcybclphaakvxycw7vekda4b6x5tybaoat3gub3kr7m
+/Users/wfschrec/Downloads/neuromorpho/1023/n1fts.measure -> https://edge.estuary.tech/ipfs/bafybeifdpcsnxdrpggy3tgnoshhqaq5cttodicm3xqebcrjxitl55eh4pu
+/Users/wfschrec/Downloads/neuromorpho/1023/n1fts.persist -> https://edge.estuary.tech/ipfs/bafybeidondii5kxkr2rhunpcnwj4cf2axnq4nrgslbkb6qrc4rdym6h47i
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeiforiqxf52tb3h4lpqkqkck7s3sxekjjbmz6orzi7x3e2zymws6ui
+Storing neuro sample with ID: 1024
+/Users/wfschrec/Downloads/neuromorpho/1024/n20fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeif4c7btr465e34o6zb53xrysnwkujyiw5juapxi5cssjgc6ektjsa
+/Users/wfschrec/Downloads/neuromorpho/1024/n20fts.swc -> https://edge.estuary.tech/ipfs/bafybeigttli75zhbbtnnsbf63uuolvwtoxfb7rg64nie5aw2qpsphfu2ny
+/Users/wfschrec/Downloads/neuromorpho/1024/n20fts.png -> https://edge.estuary.tech/ipfs/bafybeihfmvxwg3ec6g4xqzngkpr4hjxcr2ljx7o7xgxf7tbslwfkarseoq
+/Users/wfschrec/Downloads/neuromorpho/1024/n20fts.self -> https://edge.estuary.tech/ipfs/bafybeihs32jji2xz5kawozoi3t2hfpomwzfucysxol6gdglghbewvsg5va
+/Users/wfschrec/Downloads/neuromorpho/1024/n20fts.measure -> https://edge.estuary.tech/ipfs/bafybeiho6xgvyttju527cqqnf4uqzogulql6clqu6vrg7lo7tt67asdkpm
+/Users/wfschrec/Downloads/neuromorpho/1024/n20fts.persist -> https://edge.estuary.tech/ipfs/bafybeic6m6yi6ycrezpgmarvcyc5vmokzxu3ouine4l4ild7xnmufjgm5y
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeick6xx44yuay5jav4yu67bpwobli5imkbzpkvrrnzbsqtmrgpljga
+Storing neuro sample with ID: 1025
+/Users/wfschrec/Downloads/neuromorpho/1025/n21fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeied3eetwnuijwpvzgvvykaugo4e3krbuhkvafgnvw54l736gow4em
+/Users/wfschrec/Downloads/neuromorpho/1025/n21fts.swc -> https://edge.estuary.tech/ipfs/bafybeibcixpdcfqsa72gdkn2m47senq7zcrunml6y7uoivkegl7v4jas7a
+/Users/wfschrec/Downloads/neuromorpho/1025/n21fts.png -> https://edge.estuary.tech/ipfs/bafybeif3z435nez7wahy7e3qnynct3e3hcvezyovzlkgenuwie5isfvjru
+/Users/wfschrec/Downloads/neuromorpho/1025/n21fts.self -> https://edge.estuary.tech/ipfs/bafybeiay6w3gj6mzol5uk4gygaysnajrnls6vqbfrvtppno5uye37vcs2m
+/Users/wfschrec/Downloads/neuromorpho/1025/n21fts.measure -> https://edge.estuary.tech/ipfs/bafybeihbbxmu5cde4mwokjlp5ade3rapew7ulbuxgvrof3xg3viqn4dfmu
+/Users/wfschrec/Downloads/neuromorpho/1025/n21fts.persist -> https://edge.estuary.tech/ipfs/bafybeifoh7qenam5ane6c2ihbcm7xlgqcvmmrxfp6vif2ilhe66hxgdc3y
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeihozznlz5w57orfl3e33ixsych4u6pbhhjyz2ha7qi7ryohexrf7m
+Storing neuro sample with ID: 1026
+/Users/wfschrec/Downloads/neuromorpho/1026/n22fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeiad2gmkcxsbqj7tkglj7jhe7bl2htuzrezqh26lrvrqckecf6rxg4
+/Users/wfschrec/Downloads/neuromorpho/1026/n22fts.swc -> https://edge.estuary.tech/ipfs/bafybeibs7l6fxlcckhupgp4rf57udahoauapyxbjkelkg62vot7eigi6bm
+/Users/wfschrec/Downloads/neuromorpho/1026/n22fts.png -> https://edge.estuary.tech/ipfs/bafybeidkicckhbo4gvdjertkjupwlsd4zntuxkejn4wtqf3tl5wzryb5gu
+/Users/wfschrec/Downloads/neuromorpho/1026/n22fts.self -> https://edge.estuary.tech/ipfs/bafybeicytt67oxm3o5pqxbtfuyvnkadmzdeiv6rr4hgohhm3dbrguel2kq
+/Users/wfschrec/Downloads/neuromorpho/1026/n22fts.measure -> https://edge.estuary.tech/ipfs/bafybeidnahqvibn47htclkaxjcxajojt6umkgak253opesklts75ifkwhe
+/Users/wfschrec/Downloads/neuromorpho/1026/n22fts.persist -> https://edge.estuary.tech/ipfs/bafybeicroxdltaktdqn7itrxcqry5wnlgr5u4qjk5vhmtj7b7x2dhicxni
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeie2bdj2pwm6piuwdpxub4aiqs5mk75wezxwfjrmepqk5vlhq46asi
+Storing neuro sample with ID: 1027
+/Users/wfschrec/Downloads/neuromorpho/1027/n23fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeidonnwm53risxd2p3ozdkf2loupgc66moe342tzkcvshn7c2fgexu
+/Users/wfschrec/Downloads/neuromorpho/1027/n23fts.swc -> https://edge.estuary.tech/ipfs/bafybeideuvveo7hwniupxc3zyqe26ig6hkgcxns4vukb5kydpfmushvfoe
+/Users/wfschrec/Downloads/neuromorpho/1027/n23fts.png -> https://edge.estuary.tech/ipfs/bafybeihewfid5agyg5rw2i6pvs46m7o3epibixdx6slsxikz6asmcxyxhq
+/Users/wfschrec/Downloads/neuromorpho/1027/n23fts.self -> https://edge.estuary.tech/ipfs/bafybeihbfxgj5gbwjnmcxiqmb7y26suaidunjrrgzofe4mlqq6pn32q2w4
+/Users/wfschrec/Downloads/neuromorpho/1027/n23fts.measure -> https://edge.estuary.tech/ipfs/bafybeigodmperihednqxxcbqik3ovpjyhr6ldfxzs6idq5mgqiaoshjeaq
+/Users/wfschrec/Downloads/neuromorpho/1027/n23fts.persist -> https://edge.estuary.tech/ipfs/bafybeidbthj2rm4vpavs3isiaykkuosajg24qbeoay2skuxxfo3dzepqmy
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeicj4nqyrjkdrf4sx2piizzepoh4r34owzvorshdzbzciqrhgzhmse
+Storing neuro sample with ID: 1028
+/Users/wfschrec/Downloads/neuromorpho/1028/n24fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeiehzyxqq7lvbh4py5fbfc67xqzlhu7ikae2kpmrr3mmddk7oon5te
+/Users/wfschrec/Downloads/neuromorpho/1028/n24fts.swc -> https://edge.estuary.tech/ipfs/bafybeiffec27j5l3fgyfwjyltt4hd3vhf7sp3fplkbvxm4wizom55jv2xu
+/Users/wfschrec/Downloads/neuromorpho/1028/n24fts.png -> https://edge.estuary.tech/ipfs/bafybeiaygtl3zpmckxb4xg35i2vdwxcyzlipfsyexqerohoxsyf75lkh7e
+/Users/wfschrec/Downloads/neuromorpho/1028/n24fts.self -> https://edge.estuary.tech/ipfs/bafybeicdesqgydkt5t2npn6f6co55tm24lfpe7b2kfiriojvcoxguktcue
+/Users/wfschrec/Downloads/neuromorpho/1028/n24fts.measure -> https://edge.estuary.tech/ipfs/bafybeifehokurng4g3muhxntb72iqos7zhdpotxxshd6qeps7nldfyqneq
+/Users/wfschrec/Downloads/neuromorpho/1028/n24fts.persist -> https://edge.estuary.tech/ipfs/bafybeicsf2b2uzyvym46ullw5hwhp5xuwfyoujkn4fmy2t3j5r2o2b2wwy
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeifxvbmemyevoxfhet7cbikgqxhitr6dnvpfyljsownjvgvv6vvuzy
+Storing neuro sample with ID: 1029
+/Users/wfschrec/Downloads/neuromorpho/1029/n25fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeiabxt456a5j34tn3xgft2la6emivj3tu2mksynfm3blzutimisztm
+/Users/wfschrec/Downloads/neuromorpho/1029/n25fts.swc -> https://edge.estuary.tech/ipfs/bafybeibnhf6bvtvmf44mxmd2l345s5fqhdwbh3w4voemj3sloebfebfa2a
+/Users/wfschrec/Downloads/neuromorpho/1029/n25fts.png -> https://edge.estuary.tech/ipfs/bafybeid52g2lu7v746yrpw77lofp4ym4lya42gxlkbfoz6gslgbb523w44
+/Users/wfschrec/Downloads/neuromorpho/1029/n25fts.self -> https://edge.estuary.tech/ipfs/bafybeid5l2jwu5najnrutiey35h7qy3ukucvdhmzvhighbduxj2idhzhka
+/Users/wfschrec/Downloads/neuromorpho/1029/n25fts.measure -> https://edge.estuary.tech/ipfs/bafybeib3bvuh3rioi2iueeyym7vl6tlyxy3pzgu4hmeb67czgop347nywq
+/Users/wfschrec/Downloads/neuromorpho/1029/n25fts.persist -> https://edge.estuary.tech/ipfs/bafybeieiykufzkccceduwk4bm3zxnoffw4d6mjujzrtr3xalludoxferre
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeibpdv4tq6mhtg6fbuzk3jodpx3pzabuvzwj3nlthybb3yv5ccit2y
+Storing neuro sample with ID: 1030
+/Users/wfschrec/Downloads/neuromorpho/1030/n26fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeic6smbalzmoubro3pbk2asv3cdm32pviop4a6jna2i46habtxuhmu
+/Users/wfschrec/Downloads/neuromorpho/1030/n26fts.swc -> https://edge.estuary.tech/ipfs/bafybeihzdkw6thh5geme5bfhn42gdeble35fyt6qnvyamioocrf3za2erq
+/Users/wfschrec/Downloads/neuromorpho/1030/n26fts.png -> https://edge.estuary.tech/ipfs/bafybeih7thfj4sdcis2z2jne53l2zw46xxannpd7fgr2a4ez3zfhdp5mhe
+/Users/wfschrec/Downloads/neuromorpho/1030/n26fts.self -> https://edge.estuary.tech/ipfs/bafybeielvemqvmhtshlmppyorbkoyv4dbep4hbptkmuetsm5gy6smc5xtm
+/Users/wfschrec/Downloads/neuromorpho/1030/n26fts.measure -> https://edge.estuary.tech/ipfs/bafybeidui5dwwpyhes7ksdvhp5xvlep4wmpt3yhsltkvot2mpov24qphzq
+/Users/wfschrec/Downloads/neuromorpho/1030/n26fts.persist -> https://edge.estuary.tech/ipfs/bafybeihgfb3jpuy7qpgwrm24qu253xvmgqveq5jfg3p57fhxm2x7ptd25m
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeibgwta3gngbovdavdmj35kkds743uul3efpiyp3bbnmkrw7ctwbfe
+Storing neuro sample with ID: 1031
+/Users/wfschrec/Downloads/neuromorpho/1031/n27fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeifobjunzjpbzzwa4ak4s6dmr5ghunujm26mfypxhfqyx2nfnfgncu
+/Users/wfschrec/Downloads/neuromorpho/1031/n27fts.swc -> https://edge.estuary.tech/ipfs/bafybeiedokvizshdq4ry35vjawh6yu5rsr3on6nx4xwipvod3tkffbukge
+/Users/wfschrec/Downloads/neuromorpho/1031/n27fts.png -> https://edge.estuary.tech/ipfs/bafybeihx7mka7bviyzcua6corxapgra3rtt75rici5s2alqu3qbgdfkty4
+/Users/wfschrec/Downloads/neuromorpho/1031/n27fts.self -> https://edge.estuary.tech/ipfs/bafybeic5pla6d3orqahz4mbswv56s4rkncwkx6mj3x3lhkrjw5mpngtrki
+/Users/wfschrec/Downloads/neuromorpho/1031/n27fts.measure -> https://edge.estuary.tech/ipfs/bafybeidobpxzfmdbaqwkyrragvwiszhamer72ued7e6zedfr7ugcpxhanm
+/Users/wfschrec/Downloads/neuromorpho/1031/n27fts.persist -> https://edge.estuary.tech/ipfs/bafybeihsymszuselt76qz7oaoze6hdv23l4vly5lsfm4ehx4asw42sieia
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeidjjthkjl35tyi7g3nd6gi7s6hnbstdsn2bjhxoy33apifhigd65e
+Storing neuro sample with ID: 1032
+/Users/wfschrec/Downloads/neuromorpho/1032/n28fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeig4ep57xaojtyzwcrb25gjg5wbbujcxnqfwndsf33hddrccbtaeby
+/Users/wfschrec/Downloads/neuromorpho/1032/n28fts.swc -> https://edge.estuary.tech/ipfs/bafybeiadl5g6a2ucsvw7xglf2anm7udcnhwpr2siueywy77z7o6olp5g2m
+/Users/wfschrec/Downloads/neuromorpho/1032/n28fts.png -> https://edge.estuary.tech/ipfs/bafybeicygdtvizxhsn3guzvzy5w6dhxtnaguj2isozdpn6cuuwolwjbs2u
+/Users/wfschrec/Downloads/neuromorpho/1032/n28fts.self -> https://edge.estuary.tech/ipfs/bafybeifit6p7yqc3jivrw6cfvo7ivvhyw73lwwu2bfs2enip4sny34iury
+/Users/wfschrec/Downloads/neuromorpho/1032/n28fts.measure -> https://edge.estuary.tech/ipfs/bafybeiex3w2k7qw3uj4b7jbcetxmwcftlpvrmmlf7n4rahwox4vidgfbay
+/Users/wfschrec/Downloads/neuromorpho/1032/n28fts.persist -> https://edge.estuary.tech/ipfs/bafybeidebvqyf4rxztzwzpihtyao3blr3hlwsv6kbw6h52p67gfdzedgpm
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeidwqvxdggkst4zmlvono6ujynili6xrk4pthh2wkwkvxqz6ibdoc4
+Storing neuro sample with ID: 1033
+/Users/wfschrec/Downloads/neuromorpho/1033/n29fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeicszknmvgjov7ohx5jvbnufor2istz6v35d7kk46p3zdenxeepqva
+/Users/wfschrec/Downloads/neuromorpho/1033/n29fts.swc -> https://edge.estuary.tech/ipfs/bafybeibdslh6ze5rrxjnirv6cobhynd56xzd7sr5c7mz3ad25dmoywell4
+/Users/wfschrec/Downloads/neuromorpho/1033/n29fts.png -> https://edge.estuary.tech/ipfs/bafybeifmo3gga6tq7v4dhlseh46eqbles67k7sipth42eg7rfavakdg2gy
+/Users/wfschrec/Downloads/neuromorpho/1033/n29fts.self -> https://edge.estuary.tech/ipfs/bafybeief6fizrifqovf4e2dhmmyvrtjsozwuq347ti6vfkqlrxtfbpj5ae
+/Users/wfschrec/Downloads/neuromorpho/1033/n29fts.measure -> https://edge.estuary.tech/ipfs/bafybeihakopdhylwvlcv6gwsuq2l2ue4bpwss7m6td4bmiiysow6erv4i4
+/Users/wfschrec/Downloads/neuromorpho/1033/n29fts.persist -> https://edge.estuary.tech/ipfs/bafybeidwjd7wylmo2fi2boh2ymusbdby6qwb7wlbqr2asfouiuqbfkdp64
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeif6jczuftnnf4gffz2dcwypaeqdosi6u77umlbovb2inl6zc457eq
+Storing neuro sample with ID: 1034
+/Users/wfschrec/Downloads/neuromorpho/1034/n2fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeidlrvnf3dnard4tzd5ktjjicr6h3xmxe3imu2dqxtf3e5vnfdso2e
+/Users/wfschrec/Downloads/neuromorpho/1034/n2fts.swc -> https://edge.estuary.tech/ipfs/bafybeihn3leck6nfaj6mpatadd2fwirlhjbq7gnfbq7d5yc7tx2cqlkq6u
+/Users/wfschrec/Downloads/neuromorpho/1034/n2fts.png -> https://edge.estuary.tech/ipfs/bafybeiaby2m5erp5gyqbu6bkh655o4n2ktxevxiqnpq4zcnxck2f22umdy
+/Users/wfschrec/Downloads/neuromorpho/1034/n2fts.self -> https://edge.estuary.tech/ipfs/bafybeibrq3qlps7fvpngajfckxfo4jgxrloocqdta6rxuwqatczzsyexpe
+/Users/wfschrec/Downloads/neuromorpho/1034/n2fts.measure -> https://edge.estuary.tech/ipfs/bafybeidb3p7v4faphq43nhkceq7dpdul4axgprrysun7whhbf4jftwpjaa
+/Users/wfschrec/Downloads/neuromorpho/1034/n2fts.persist -> https://edge.estuary.tech/ipfs/bafybeif65yiex7gvhrwknouozyyu335dmiwtx2h7oes4umgfi3skfdxhgy
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeidiy5iaem2bcqch46xfq5hugn3cq7geogagnths3eumf4jkxbkqfy
+Storing neuro sample with ID: 1035
+/Users/wfschrec/Downloads/neuromorpho/1035/n3fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeicy5ehzjcrqz6qdtvf26utsysjkz7dnlfz2svxiwc4buy42fvpro4
+/Users/wfschrec/Downloads/neuromorpho/1035/n3fts.swc -> https://edge.estuary.tech/ipfs/bafybeicih7txrbodkmc5ufke7lc57qdt3mkf4v4wegazkjltmwcx3w6r4u
+/Users/wfschrec/Downloads/neuromorpho/1035/n3fts.png -> https://edge.estuary.tech/ipfs/bafybeiewg2l57xd4k7oqnlvak5w3oqmhw7ildfseoqmgs27wxcpzwcy4u4
+/Users/wfschrec/Downloads/neuromorpho/1035/n3fts.self -> https://edge.estuary.tech/ipfs/bafybeibqo4mq5754shefku5m353ginrnckm4kyjjnl3xy5rn5iv62szn5a
+/Users/wfschrec/Downloads/neuromorpho/1035/n3fts.measure -> https://edge.estuary.tech/ipfs/bafybeie6bfr52ea5fky6buyvg4ap7s3yfy6fbyfiabgahegjurfii2nd3y
+/Users/wfschrec/Downloads/neuromorpho/1035/n3fts.persist -> https://edge.estuary.tech/ipfs/bafybeiedfv7fx2abp6i2ly6w6ztr2d4sozj26qnydf7dprcu47ew6dcfx4
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeibqrrktc4hsn2ldboehxb2x4x3ny5xcvm2f4ij5dgj7dr6xicqyie
+Storing neuro sample with ID: 1036
+/Users/wfschrec/Downloads/neuromorpho/1036/n4fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeihu63pr5vqx5evbftzm6y7wdmzdjg75szltkzwn5y3n2bthz6g53i
+/Users/wfschrec/Downloads/neuromorpho/1036/n4fts.swc -> https://edge.estuary.tech/ipfs/bafybeidyilvylxvvnmpuy6cuhen3rshcahvb2u3r6lqgd4nh3xx7a3vsuu
+/Users/wfschrec/Downloads/neuromorpho/1036/n4fts.png -> https://edge.estuary.tech/ipfs/bafybeid4kvduwox7ipqfc4qfpr4lgjtufhs7qmxxedl5uh4cqd7qexmaya
+/Users/wfschrec/Downloads/neuromorpho/1036/n4fts.self -> https://edge.estuary.tech/ipfs/bafybeidzo7bzuqogf7vvxs3ooezihffdltke3kfi35bl5en5ql3mxydmxe
+/Users/wfschrec/Downloads/neuromorpho/1036/n4fts.measure -> https://edge.estuary.tech/ipfs/bafybeiew5un7ajj2l3kmiit35auuyfy6mw2e3bcof76zd5zj2crrlui6vq
+/Users/wfschrec/Downloads/neuromorpho/1036/n4fts.persist -> https://edge.estuary.tech/ipfs/bafybeigsidgawxftv7qhpfi5atnprdqde3ss3fk7risohyxlubtuop2pvy
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeibbzpcazvquhjdptrrxj2apg3feckgmqlyefq6oh4avrstnabnkvy
+Storing neuro sample with ID: 1037
+/Users/wfschrec/Downloads/neuromorpho/1037/n5fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeiaodtm3iot77nhk4f4qe2lu7bmcwduf4fyecg55lkf3hdr5hhyp7q
+/Users/wfschrec/Downloads/neuromorpho/1037/n5fts.swc -> https://edge.estuary.tech/ipfs/bafybeifmhnfnq7ozbisdnzsrfkdwq3glvkgemmw5slfzvtqiphes327bli
+/Users/wfschrec/Downloads/neuromorpho/1037/n5fts.png -> https://edge.estuary.tech/ipfs/bafybeicailxrq6wyue3cnfk4amnotng74grgjjqynpkovff7exugpzmj5q
+/Users/wfschrec/Downloads/neuromorpho/1037/n5fts.self -> https://edge.estuary.tech/ipfs/bafybeia5wsygieyqn2xioylpnqphiwkgkzjprqovnfbmazwn4ldfoa5dqe
+/Users/wfschrec/Downloads/neuromorpho/1037/n5fts.measure -> https://edge.estuary.tech/ipfs/bafybeihajyah5rrjjg45l54co4jfigjutjij53wp7plvoyzhzxk6qcxhx4
+/Users/wfschrec/Downloads/neuromorpho/1037/n5fts.persist -> https://edge.estuary.tech/ipfs/bafybeib4kk55axr2cbx4vvstswqwljklf64mtra6pbskdymoq7jharuute
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeihucdy3pnbjdf4gkllawzof2kn6p2oi332hrev7meu3ui3qp7xxnm
+Storing neuro sample with ID: 1038
+/Users/wfschrec/Downloads/neuromorpho/1038/n6fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeibh7zs4lf7m2zmph2hllajhcravfdlk2lo6k6pzcgeqp3ipcyul3e
+/Users/wfschrec/Downloads/neuromorpho/1038/n6fts.swc -> https://edge.estuary.tech/ipfs/bafybeiebekyxq4uswbhtzoygyom57k3u4tcao5fl2jngnekszje63yyqai
+/Users/wfschrec/Downloads/neuromorpho/1038/n6fts.png -> https://edge.estuary.tech/ipfs/bafybeiaqreyb4nzik2rdgykty3vvdjbjvzeqlgpzjqly3zy77zu2wwwzx4
+/Users/wfschrec/Downloads/neuromorpho/1038/n6fts.self -> https://edge.estuary.tech/ipfs/bafybeia5xtdzahkf6qqqkbexzlhd7qqveg4mk6uqvziptvyamfwsynvxta
+/Users/wfschrec/Downloads/neuromorpho/1038/n6fts.measure -> https://edge.estuary.tech/ipfs/bafybeiaz7bvbzvgnwwwvjwtfgczhmtbktdx3eo5ujprxpdfqme3gtk7nmm
+/Users/wfschrec/Downloads/neuromorpho/1038/n6fts.persist -> https://edge.estuary.tech/ipfs/bafybeieuqboog2c4pi5ft6hex732qtas3lxzqggbzmcqt3gemxw4fzwm7a
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeibdlmnde6khvusaf5k2v56ord2k37dgqluar77dnmzlhxg4gp2sqe
+Storing neuro sample with ID: 1039
+/Users/wfschrec/Downloads/neuromorpho/1039/n7fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeihczclk65joyyy5fceshkrplapfly5hjaabddjgaat7mi4logeixa
+/Users/wfschrec/Downloads/neuromorpho/1039/n7fts.swc -> https://edge.estuary.tech/ipfs/bafybeickahb47azvncdgiwawlg7572gq2w76g55w46dfm52ul2xst3q7fm
+/Users/wfschrec/Downloads/neuromorpho/1039/n7fts.png -> https://edge.estuary.tech/ipfs/bafybeibdanlixzf547mc4njijlqcdwju2ik2d6wnwtleuwhl4wvmajx6ai
+/Users/wfschrec/Downloads/neuromorpho/1039/n7fts.self -> https://edge.estuary.tech/ipfs/bafybeicbgn7bnqkt2bhdrhczmq6wbqyey4xihyjr3eko7joyo2jd2d32p4
+/Users/wfschrec/Downloads/neuromorpho/1039/n7fts.measure -> https://edge.estuary.tech/ipfs/bafybeie2c73mqlqzsz6pr2fkhidb6rm3x7pnp35uzwtwncrujhee574vmu
+/Users/wfschrec/Downloads/neuromorpho/1039/n7fts.persist -> https://edge.estuary.tech/ipfs/bafybeigoghfjiefvg57lj36dvelrmkl5jd6ro3wcryce2pkraqmccqrejm
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeifhqcrd3icpb6h2zaiodwqth67e2oqpuf5v6zdw4hgfvt36onvley
+Storing neuro sample with ID: 1040
+/Users/wfschrec/Downloads/neuromorpho/1040/n8fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeifefq3hssp3ufguqalpamjeilfps4hbkat7rezerunmffwwzj5jyu
+/Users/wfschrec/Downloads/neuromorpho/1040/n8fts.swc -> https://edge.estuary.tech/ipfs/bafybeifnka7elvcgh3bd4wlcwvfldkeo6zzamde2ueugdkw4cibz7ryqay
+/Users/wfschrec/Downloads/neuromorpho/1040/n8fts.png -> https://edge.estuary.tech/ipfs/bafybeihdtdaxysqfysoaang7mkhiyzth7mv4nmtzffhbbb6oqommdn47ca
+/Users/wfschrec/Downloads/neuromorpho/1040/n8fts.self -> https://edge.estuary.tech/ipfs/bafybeiamdy6uxaa3b5bgj4dbb7lcmugzyfka6ytmf24ijr7blsaaqp2br4
+/Users/wfschrec/Downloads/neuromorpho/1040/n8fts.measure -> https://edge.estuary.tech/ipfs/bafybeidualksdcatkrq2owled7x7wf32ehnhjr72f2mjuu3l5fbepgfgie
+/Users/wfschrec/Downloads/neuromorpho/1040/n8fts.persist -> https://edge.estuary.tech/ipfs/bafybeihyfpqmsxfy42utlemw2jdadcycnhwndv7camk27x43dzivshmu7e
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeicdvuetgaqcjixzz3lbl64y7eff5t2gyvpaohhna7hgynbuw3ovmy
+Storing neuro sample with ID: 1041
+/Users/wfschrec/Downloads/neuromorpho/1041/n9fts.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeigv4gxrzf2sw7nltk3cvx3o5hk5vlnn47flt72zp5plkeqfzl3wqe
+/Users/wfschrec/Downloads/neuromorpho/1041/n9fts.swc -> https://edge.estuary.tech/ipfs/bafybeifovg6n3wj7pq2rlgart7ov76eso5hctkd73vn4rw5b43u34ittna
+/Users/wfschrec/Downloads/neuromorpho/1041/n9fts.png -> https://edge.estuary.tech/ipfs/bafybeicnar6o76aeudjpelolhbdexa2ugw3uck2uefemq5fj4djyatqzq4
+/Users/wfschrec/Downloads/neuromorpho/1041/n9fts.self -> https://edge.estuary.tech/ipfs/bafybeia7n7woyk7xi6eulcciocek4iglhb4zviqvtniaiqci3e2xunpioe
+/Users/wfschrec/Downloads/neuromorpho/1041/n9fts.measure -> https://edge.estuary.tech/ipfs/bafybeiawcetp67hmcnoot4mb4x6cpn5qh4vjzeyg4y2wdcj5kp53sv6g5m
+/Users/wfschrec/Downloads/neuromorpho/1041/n9fts.persist -> https://edge.estuary.tech/ipfs/bafybeiby4ln44sehwyb3xw7tbp4oaa5nrogl6uq2crtoz4scj5mwwqbm34
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeibsxdw3ppdsuuwqitghpykd5n4swuysuhk6hahagvvwx7mffijqsu
+Storing neuro sample with ID: 145846
+/Users/wfschrec/Downloads/neuromorpho/145846/form3-OE_L5D6_MT_Fact.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeihktueglia5auzmdjjug3u2zuhkgau6xzgqcyryejwngnqipzgeua
+/Users/wfschrec/Downloads/neuromorpho/145846/form3-OE_L5D6_MT_Fact.png -> https://edge.estuary.tech/ipfs/bafybeicjiq4wjw7nhgyktnvsmrpf7mghmkuuivlraoiy3gpvqlug4ad2kq
+/Users/wfschrec/Downloads/neuromorpho/145846/form3-OE_L5D6_MT_Fact.self -> https://edge.estuary.tech/ipfs/bafybeibszhfbjz47epiffvoipavntjmv7prnzngagspvbihwm5cm5jer4e
+/Users/wfschrec/Downloads/neuromorpho/145846/form3-OE_L5D6_MT_Fact.measure -> https://edge.estuary.tech/ipfs/bafybeid6xappg65e63yryfy7ylgor6ikzvjwtxkqfqmdyl5nxgylwmanga
+/Users/wfschrec/Downloads/neuromorpho/145846/form3-OE_L5D6_MT_Fact.persist -> https://edge.estuary.tech/ipfs/bafybeibodp2nae23kza7ivpltv5bak4vbzpehiomiacch6uhx6ozfbdsny
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeifitxiq4bfojez2q5rtzs4vy4krzvp6wz3kvipklq2x6s5f67jitm
+Storing neuro sample with ID: 145847
+/Users/wfschrec/Downloads/neuromorpho/145847/form3-OE_L1D4_MT_Fact.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeig3jmrnyaa6dbdkgl3zijpvkqvrdk7gw3bl5zkb4pohqug2ss4n6a
+/Users/wfschrec/Downloads/neuromorpho/145847/form3-OE_L1D4_MT_Fact.png -> https://edge.estuary.tech/ipfs/bafybeieje7gttezt5mqtq5hq4jykv2x6occwlqo7gjm5agjlxztmc6ysre
+/Users/wfschrec/Downloads/neuromorpho/145847/form3-OE_L1D4_MT_Fact.self -> https://edge.estuary.tech/ipfs/bafybeidlzydajlaruy5ucuthkvhzaka7uojer2tsgmnqvd36z477xy2iki
+/Users/wfschrec/Downloads/neuromorpho/145847/form3-OE_L1D4_MT_Fact.measure -> https://edge.estuary.tech/ipfs/bafybeidvcohtezh6u4k7gb47cbh3svwtflqt7tv4rrua4ercaqx7vyz54i
+/Users/wfschrec/Downloads/neuromorpho/145847/form3-OE_L1D4_MT_Fact.persist -> https://edge.estuary.tech/ipfs/bafybeidshoqhfkw7te4mlmznl52sfr5lgwcntfchdd3wiizoxkcs65rlam
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeif2lsz4u7g3b7ty22b7e3govi64oppfwwrfxxi76kcytl2drbx3pq
+Storing neuro sample with ID: 145848
+/Users/wfschrec/Downloads/neuromorpho/145848/form3-OE_L3D5_MT_Fact.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeiecoxirzwxx7olq44e7zmllk5xxnt7ird35g5tp3hmbt5jr3gk2fq
+/Users/wfschrec/Downloads/neuromorpho/145848/form3-OE_L3D5_MT_Fact.png -> https://edge.estuary.tech/ipfs/bafybeid2ub66nglrvchgryliavflbwbz7xbz6z2oxxsqfdhc7wyyppfjf4
+/Users/wfschrec/Downloads/neuromorpho/145848/form3-OE_L3D5_MT_Fact.self -> https://edge.estuary.tech/ipfs/bafybeiaqfohnvis5sgbt2dkok6zys2vjz36ihd45ly47oi4eza6p4bipha
+/Users/wfschrec/Downloads/neuromorpho/145848/form3-OE_L3D5_MT_Fact.measure -> https://edge.estuary.tech/ipfs/bafybeiaqdriyy4ivcld6r7gfu5o5trymdhziuh2wktpsle3r5nllqsb7ya
+/Users/wfschrec/Downloads/neuromorpho/145848/form3-OE_L3D5_MT_Fact.persist -> https://edge.estuary.tech/ipfs/bafybeiacswkpqyrlkklplecqimn7iuesrzxqr4w6dklhcylc2uz22pj6qa
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeibpiplmgnr6z7zjqewomj6ir3izuy3kdt5zrgdusqh42is7uhtdi4
+Storing neuro sample with ID: 145849
+/Users/wfschrec/Downloads/neuromorpho/145849/WT_L4D6_MT_Fact.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeidro7pbtsz23qmw2xcjffk56w3rxesao5qypa6aztoaovrcrhalza
+/Users/wfschrec/Downloads/neuromorpho/145849/WT_L4D6_MT_Fact.png -> https://edge.estuary.tech/ipfs/bafybeih5wblznvxzl7b3tt43i4qu6utpocnpvvefgpug6wfvo45no44x7u
+/Users/wfschrec/Downloads/neuromorpho/145849/WT_L4D6_MT_Fact.self -> https://edge.estuary.tech/ipfs/bafybeib6ntwe2jpz4cksy4gnc2e34u2522obp3c6hrociygkwh4rp33oxu
+^[[A/Users/wfschrec/Downloads/neuromorpho/145849/WT_L4D6_MT_Fact.measure -> https://edge.estuary.tech/ipfs/bafybeicoslxdgbogqzfn7kpnnkn3e7ycfvilbpfljdh7iwzyjbnekejpee
+/Users/wfschrec/Downloads/neuromorpho/145849/WT_L4D6_MT_Fact.persist -> https://edge.estuary.tech/ipfs/bafybeib74wprlgvqq2uzq7f4xxiy4qv4qrz4jo57nnrmhdjlpk7pwocpqu
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeihcznarxoae3fnzq6w7skzrrlef4gorij4brofkf4geteydhj6hoa
+Storing neuro sample with ID: 145850
+/Users/wfschrec/Downloads/neuromorpho/145850/WT_L3D5_MT_Fact.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeib2agcmdel27m65adj2stljdid5twzmep2i5hbbx6p6wxnyhrn35e
+/Users/wfschrec/Downloads/neuromorpho/145850/WT_L3D5_MT_Fact.png -> https://edge.estuary.tech/ipfs/bafybeic25q57gmikvmori5d7sqjqnbdvzcw4ehed66o3rljfi4ypjag4rq
+/Users/wfschrec/Downloads/neuromorpho/145850/WT_L3D5_MT_Fact.self -> https://edge.estuary.tech/ipfs/bafybeih7uuppqaehkfzo3lu2qceh2ddrywsmjw7eohon5dt3stvbg373dm
+/Users/wfschrec/Downloads/neuromorpho/145850/WT_L3D5_MT_Fact.measure -> https://edge.estuary.tech/ipfs/bafybeih2nbyx3mlduafixxpswbl74ldelvdpdp7leyrjfx6p4sk3drqnem
+/Users/wfschrec/Downloads/neuromorpho/145850/WT_L3D5_MT_Fact.persist -> https://edge.estuary.tech/ipfs/bafybeid5kkbbxtuopawyhwhvr3wjmiws6bawpsrbhzzhn3czfc5pxc6poq
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeiabjw5mmyl7k6xrz7xr4sdresmgrvhi7a4g44zesqbmbion545xdy
+Storing neuro sample with ID: 145851
+/Users/wfschrec/Downloads/neuromorpho/145851/L8D5ddaE_MT_Fact.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeiae4tizg7x4e3lnmxubgmys6csf6l7r5jn3hbh7u74kx5ibpjllgi
+/Users/wfschrec/Downloads/neuromorpho/145851/L8D5ddaE_MT_Fact.png -> https://edge.estuary.tech/ipfs/bafybeibgy2xhtmowtca5wriedz73y64r55rlo53fzoqrshugix3d7q7r7a
+/Users/wfschrec/Downloads/neuromorpho/145851/L8D5ddaE_MT_Fact.self -> https://edge.estuary.tech/ipfs/bafybeicselkzgymuihbw53rt7tkfkezy4ee23gvh3ypatrmmm52cx3c7km
+/Users/wfschrec/Downloads/neuromorpho/145851/L8D5ddaE_MT_Fact.measure -> https://edge.estuary.tech/ipfs/bafybeidz55qbega6z5qhaq4kuik5n3trotttcegixuam36je2o2q4diapu
+/Users/wfschrec/Downloads/neuromorpho/145851/L8D5ddaE_MT_Fact.persist -> https://edge.estuary.tech/ipfs/bafybeigtwroq433tuoacrw662rqyasadvxezrfi5ibqxjlxb4b4772wj3i
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeihvhgr3fod4g3gpqq7idzjzo3mfhyby77ikeaazdouesmvr7l4izi
+Storing neuro sample with ID: 145852
+/Users/wfschrec/Downloads/neuromorpho/145852/form3-OE_L2D5_MT_Fact.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeid7s7m22mzoopkrzoxaao3jkufg3h6sqbys2hc32ioens6scgmf2e
+/Users/wfschrec/Downloads/neuromorpho/145852/form3-OE_L2D5_MT_Fact.png -> https://edge.estuary.tech/ipfs/bafybeicc27dzlfxt5nucosti4jsvik2wfljdgaommvijcyzejlgzgihik4
+/Users/wfschrec/Downloads/neuromorpho/145852/form3-OE_L2D5_MT_Fact.self -> https://edge.estuary.tech/ipfs/bafybeiajkt5niwsiupe52bx53tcoialug7e3luj7emvuwhnyj725cmwwmm
+/Users/wfschrec/Downloads/neuromorpho/145852/form3-OE_L2D5_MT_Fact.measure -> https://edge.estuary.tech/ipfs/bafybeifkkjmha6ehbbks4plh6xbnmhr7lfdjldjlimcnn42sthz73dptsi
+/Users/wfschrec/Downloads/neuromorpho/145852/form3-OE_L2D5_MT_Fact.persist -> https://edge.estuary.tech/ipfs/bafybeid5weowohvfmv3e73xobzepz4d6iwogmxnvayeza72vmm3uit6ula
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeiacifaxsutlnyy5hlp6zxdfps4f6e4d4b2xpadq2wdmorars4aei4
+Storing neuro sample with ID: 145853
+/Users/wfschrec/Downloads/neuromorpho/145853/L6D5ddaE_MT_Fact.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeigah6xcfqnkzcon3vxxrpytdhuzjet4tpr5pjro2cv3ohqqrtouf4
+/Users/wfschrec/Downloads/neuromorpho/145853/L6D5ddaE_MT_Fact.png -> https://edge.estuary.tech/ipfs/bafybeihlqoz6bqkc73f5k3ohqzbzqyxxn7ylxvn73nw5aljwa2ytgtbkgq
+/Users/wfschrec/Downloads/neuromorpho/145853/L6D5ddaE_MT_Fact.self -> https://edge.estuary.tech/ipfs/bafybeiflga5uurlo665iun2hwhnel657lokm36pzky6iktekwrxbatvlim
+/Users/wfschrec/Downloads/neuromorpho/145853/L6D5ddaE_MT_Fact.measure -> https://edge.estuary.tech/ipfs/bafybeifmyshyjkkh2t3532nn6mjqhxxxhmexdtgu2tz2b4fw6wsnb6qkvm
+/Users/wfschrec/Downloads/neuromorpho/145853/L6D5ddaE_MT_Fact.persist -> https://edge.estuary.tech/ipfs/bafybeihkday6vpddmvve6yorjwbbx6jqx3ffzu44kr5sl6byjpnelld32e
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeicvkgppgajezgkzjd6rlwj56ad2j7x37pmxuwj2c7luwhukm4ludi
+Storing neuro sample with ID: 145854
+/Users/wfschrec/Downloads/neuromorpho/145854/form3-OE_L2D6_MT_Fact.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeif6ojtbigjxafujh235qxidvcie6xpbg366664a7vm7itmqnhzxpm
+/Users/wfschrec/Downloads/neuromorpho/145854/form3-OE_L2D6_MT_Fact.png -> https://edge.estuary.tech/ipfs/bafybeiak5zx4wc4g7xeacemvd25gawabgevovg4abk756b2z3jcgxxagwq
+/Users/wfschrec/Downloads/neuromorpho/145854/form3-OE_L2D6_MT_Fact.self -> https://edge.estuary.tech/ipfs/bafybeifdaneutscgufauegnuy4beft3dpkbsellsjyib7vo4dhxh2jdste
+/Users/wfschrec/Downloads/neuromorpho/145854/form3-OE_L2D6_MT_Fact.measure -> https://edge.estuary.tech/ipfs/bafybeibd2g66yk3cbhkknrp6xl4h3wqf3u52z6233mb7lot3kcjqk62uay
+/Users/wfschrec/Downloads/neuromorpho/145854/form3-OE_L2D6_MT_Fact.persist -> https://edge.estuary.tech/ipfs/bafybeidzbye7jizgkk3mmi56klxr6eltrgq5vmhqidzzwfcwzigxvrzpzi
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeibgb2yftydadl6utw5luowr3mi2faqgzxv2jampv6o4hckrd3x7hu
+Storing neuro sample with ID: 145855
+/Users/wfschrec/Downloads/neuromorpho/145855/form3-OE_L7D5_MT_Fact.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeidohd5nintnrowqp2z7be6m4ypv3s633sle27hup7m2ummb45zcha
+/Users/wfschrec/Downloads/neuromorpho/145855/form3-OE_L7D5_MT_Fact.png -> https://edge.estuary.tech/ipfs/bafybeifvgee7uv3stpvghow74sjto7yv2xq2fw33j26osvbqornakoyhqu
+/Users/wfschrec/Downloads/neuromorpho/145855/form3-OE_L7D5_MT_Fact.self -> https://edge.estuary.tech/ipfs/bafybeidjnebkguyifnxp5pdxfolrble53tbuk56uoh32jquxbov3yhhfnu
+/Users/wfschrec/Downloads/neuromorpho/145855/form3-OE_L7D5_MT_Fact.measure -> https://edge.estuary.tech/ipfs/bafybeibfv5fjmeej7bywv67duszpxty7zbya7oypc6bq4qch357wafgqy4
+/Users/wfschrec/Downloads/neuromorpho/145855/form3-OE_L7D5_MT_Fact.persist -> https://edge.estuary.tech/ipfs/bafybeidxmykavp3kyobyar6u5yivt52cbsvhhfxbweensnjytx24oukxfq
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeiacsh7xzqn6mi3fak4rslrle72ion34uor6pu4optikjbtock5k7u
+Storing neuro sample with ID: 145856
+/Users/wfschrec/Downloads/neuromorpho/145856/L7D5ddaE_MT_Fact.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeidfwtn4muvkupokvjrj4mv5dscn4fbe4itpcepuitueb2bmtwkyvi
+/Users/wfschrec/Downloads/neuromorpho/145856/L7D5ddaE_MT_Fact.png -> https://edge.estuary.tech/ipfs/bafybeie5vtybtd5x3jnnxquuds6tfwrgdqsnhqohippq2vrr7dra6eyyle
+/Users/wfschrec/Downloads/neuromorpho/145856/L7D5ddaE_MT_Fact.self -> https://edge.estuary.tech/ipfs/bafybeigt7i4x2htuuk4weuaarmj6jlomr5tmcgxh57vsyfvd4nv7niexha
+/Users/wfschrec/Downloads/neuromorpho/145856/L7D5ddaE_MT_Fact.measure -> https://edge.estuary.tech/ipfs/bafybeihb4vurr2vusksobawznxpm4mtc377tvaq4pfiib7gk35wp3fnfda
+/Users/wfschrec/Downloads/neuromorpho/145856/L7D5ddaE_MT_Fact.persist -> https://edge.estuary.tech/ipfs/bafybeicsnnnnwym3daluibz7hrw6pdquorloejbq653yyojhmcuwilnyja
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeihikj72cmyxasvzsp7fzlee2sxv5pxsz66b5ynikwb3yioda2a2ku
+Storing neuro sample with ID: 145857
+/Users/wfschrec/Downloads/neuromorpho/145857/L1D6AddaE_MT_Fact.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeicux46d2zsijyexowyma2esvycos47dbxk6uzgjagxey46y7pxgr4
+/Users/wfschrec/Downloads/neuromorpho/145857/L1D6AddaE_MT_Fact.png -> https://edge.estuary.tech/ipfs/bafybeighsz2qtyxpxirnx4ax7bth2muqkr6vkuqdkjex2knubewf2yjxoy
+/Users/wfschrec/Downloads/neuromorpho/145857/L1D6AddaE_MT_Fact.self -> https://edge.estuary.tech/ipfs/bafybeie7cpsqoevvfsxdpjvsrswb364snal44cgy56btnx3rv47aasc4pe
+/Users/wfschrec/Downloads/neuromorpho/145857/L1D6AddaE_MT_Fact.measure -> https://edge.estuary.tech/ipfs/bafybeidf7wv2wcb5vtq4qtstrbkixfz3ivwxshsx3yv2cddsyiq7hoo5dq
+/Users/wfschrec/Downloads/neuromorpho/145857/L1D6AddaE_MT_Fact.persist -> https://edge.estuary.tech/ipfs/bafybeibzhjknme5eh3z4jhsjkdj7ehnufay57ppggntdv7xbdnfermvezq
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeibhmle7qkpoe6vgxgbxz3xysjzl7xhhat7wllcqmuoocvd32qrisu
+Storing neuro sample with ID: 145858
+/Users/wfschrec/Downloads/neuromorpho/145858/WT_L4D5_MT_Fact.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeidv6qgiuz4sot7nxur3ndogo4kmkm2aexhbyq6at2ezwa46w4bm4e
+/Users/wfschrec/Downloads/neuromorpho/145858/WT_L4D5_MT_Fact.png -> https://edge.estuary.tech/ipfs/bafybeic74pmfqg4t6svaiemh6yxdyv4eknpzys4cymvwlt2ho6xf2wdzy4
+/Users/wfschrec/Downloads/neuromorpho/145858/WT_L4D5_MT_Fact.self -> https://edge.estuary.tech/ipfs/bafybeigtrkekndhiw4tlkljaxoalsfvghyw6kdxcdpor4nmjweb4dj4jdq
+/Users/wfschrec/Downloads/neuromorpho/145858/WT_L4D5_MT_Fact.measure -> https://edge.estuary.tech/ipfs/bafybeiapt4fq5nn4kjpmisaizd5nom6s22t7agxoz5muv3n4dnsntr7i3q
+/Users/wfschrec/Downloads/neuromorpho/145858/WT_L4D5_MT_Fact.persist -> https://edge.estuary.tech/ipfs/bafybeihf6m3mou6njjgomxvm3bpwu6oeomfjghpsgmbftvcayopdvc3qpy
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeiewyula7nxewlkhwi7gnpqct6jhph7nkqqcb3vk6svacbmham2hiq
+Storing neuro sample with ID: 145859
+/Users/wfschrec/Downloads/neuromorpho/145859/WT_L5D5_MT_Fact.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeihm4ocls4tnb5xljicep7qjiiryahcglg7oeugtfqpig44rppcuxu
+/Users/wfschrec/Downloads/neuromorpho/145859/WT_L5D5_MT_Fact.png -> https://edge.estuary.tech/ipfs/bafybeicuglxv4a4kvwr3d7ijflbnzzodxsclikelklzaxwxqrafg7pyr4a
+/Users/wfschrec/Downloads/neuromorpho/145859/WT_L5D5_MT_Fact.self -> https://edge.estuary.tech/ipfs/bafybeiae4xoocatwsrhfz6l7pbzx5jh5ajew4lhuuxqhonq4h565zpc664
+/Users/wfschrec/Downloads/neuromorpho/145859/WT_L5D5_MT_Fact.measure -> https://edge.estuary.tech/ipfs/bafybeic2yakwhrldk5mqmjokh75rhktxwjwfshq6yonrqg4d6nwcvzeepq
+/Users/wfschrec/Downloads/neuromorpho/145859/WT_L5D5_MT_Fact.persist -> https://edge.estuary.tech/ipfs/bafybeiepl5sfgpq7mrx6itjm2xqdhb4icvmqumblfvx6lzk6f5o3lmowcq
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeifruabm35dbqybzavwus3ymqknjtk6ueyvuknja5ib5jfq2mcxiiq
+Storing neuro sample with ID: 145860
+/Users/wfschrec/Downloads/neuromorpho/145860/L5D5ddaE_MT_Fact.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeigyy7ddztms6bavb2fngntdekpgl3el34pnxzwlt2hsywa7fd5toe
+/Users/wfschrec/Downloads/neuromorpho/145860/L5D5ddaE_MT_Fact.png -> https://edge.estuary.tech/ipfs/bafybeidat43v65r226pbkrk7drmrvk46gaqmtqpebwhrbyitidxgppve7m
+/Users/wfschrec/Downloads/neuromorpho/145860/L5D5ddaE_MT_Fact.self -> https://edge.estuary.tech/ipfs/bafybeigdobrtdz33khabwjqp4iyma7yuseefry7ionhgwokp4rnrx3mcbe
+/Users/wfschrec/Downloads/neuromorpho/145860/L5D5ddaE_MT_Fact.measure -> https://edge.estuary.tech/ipfs/bafybeicyqgnnnyhbrkxv5dxwqxhggfm7o3f3ies4womlak6jtubhdr6wzi
+/Users/wfschrec/Downloads/neuromorpho/145860/L5D5ddaE_MT_Fact.persist -> https://edge.estuary.tech/ipfs/bafybeibdfyjz6tl6ddjcppdfiw2d63lpp6auhvlcsmebrakprfkzzcq6mi
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeidzvhfhxtvr7i7eo4ogxjk2gjld5ibef3fw2ehhjnqllnyzvbyvj4
+Storing neuro sample with ID: 145861
+/Users/wfschrec/Downloads/neuromorpho/145861/L2D5ddaE_MT_Fact.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeidnxo7t4ptu42mjhrh3dfxynciakrpzz5wryoy446tx2gwiq34khu
+/Users/wfschrec/Downloads/neuromorpho/145861/L2D5ddaE_MT_Fact.png -> https://edge.estuary.tech/ipfs/bafybeiftebtmhxyw2gu23dhh66c3ui2hsqqou4hdcrd5jwrbqdnzjkmiie
+/Users/wfschrec/Downloads/neuromorpho/145861/L2D5ddaE_MT_Fact.self -> https://edge.estuary.tech/ipfs/bafybeidyulesowobvum364udpvroonkqy2iv64y2ya2bvfpqh4t7bieqei
+/Users/wfschrec/Downloads/neuromorpho/145861/L2D5ddaE_MT_Fact.measure -> https://edge.estuary.tech/ipfs/bafybeicy5qfl6r3lowu34nf64ottnamu5hwx7txjh7o2h3ntmugzo2iaje
+/Users/wfschrec/Downloads/neuromorpho/145861/L2D5ddaE_MT_Fact.persist -> https://edge.estuary.tech/ipfs/bafybeig6ywmonty3avugmsz7vs22cdfwvhfgrb3g7mb66gacazy4y5rtc4
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeida6smw4mxjdnqiandgn76lkzideyw2f3aadxbiybzjljirvofppe
+Storing neuro sample with ID: 145862
+/Users/wfschrec/Downloads/neuromorpho/145862/form3-OE_L10D6_MT_Fact.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeiexjjg5u5qqp2extgci6th3yayjyndu3djobaie7enuaffubco6ge
+/Users/wfschrec/Downloads/neuromorpho/145862/form3-OE_L10D6_MT_Fact.png -> https://edge.estuary.tech/ipfs/bafybeids2ggsntyiesnhrn2chjwdsuimmzey2ltwa4kmz53tkggo7lpagm
+/Users/wfschrec/Downloads/neuromorpho/145862/form3-OE_L10D6_MT_Fact.self -> https://edge.estuary.tech/ipfs/bafybeicooi2c3zxtfoxo5g3zpgk3m5qthuutpebnc6usppajt7nkxuic4a
+/Users/wfschrec/Downloads/neuromorpho/145862/form3-OE_L10D6_MT_Fact.measure -> https://edge.estuary.tech/ipfs/bafybeidi6nlfj6wko46xgfictlhfwmf2nmdrx7g4jy4usgsdp2zwsuq3li
+/Users/wfschrec/Downloads/neuromorpho/145862/form3-OE_L10D6_MT_Fact.persist -> https://edge.estuary.tech/ipfs/bafybeiakrub43ccguw4xtg3z44zhuzqfzmnvlod2wdpbmbupldls5kmx2e
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeic4wrmsuajlxlp6aegqv72z6zzpgv5oej3co7rky5vqlrp365gbau
+Storing neuro sample with ID: 145863
+/Users/wfschrec/Downloads/neuromorpho/145863/L7D6ddaE_MT_Fact.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeifoujed7icrs6m6w732pc6onyofxntlyfctj5wfmybdxwavleuy44
+/Users/wfschrec/Downloads/neuromorpho/145863/L7D6ddaE_MT_Fact.png -> https://edge.estuary.tech/ipfs/bafybeigy4mxuywmih5wwhqu62yse53n45fwcfzabnd6gpcontjt4rryfw4
+/Users/wfschrec/Downloads/neuromorpho/145863/L7D6ddaE_MT_Fact.self -> https://edge.estuary.tech/ipfs/bafybeiarusg3wfjfjgv3kacinbzk4nzghpantt6drrwwqmntxp22eys3me
+/Users/wfschrec/Downloads/neuromorpho/145863/L7D6ddaE_MT_Fact.measure -> https://edge.estuary.tech/ipfs/bafybeiemn7zu3d7vimod4p34euzzvytc7w62sfx3orkv4mp4vbgoy6doxy
+/Users/wfschrec/Downloads/neuromorpho/145863/L7D6ddaE_MT_Fact.persist -> https://edge.estuary.tech/ipfs/bafybeihosnx374kbsu4logffn6d54orbk3nvyegprf6jqn7u2ginu2zeh4
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeifhba6kmr7nlbgrquae2ghfpajfy2atd3oamgttozi6xcbo63y7we
+Storing neuro sample with ID: 145864
+/Users/wfschrec/Downloads/neuromorpho/145864/L4D5AddaE_MT_Fact.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeihxbjtlj4s4ldq5w62iayhyae52cqqvcwbd2sj65yuycusx2ehyrq
+/Users/wfschrec/Downloads/neuromorpho/145864/L4D5AddaE_MT_Fact.png -> https://edge.estuary.tech/ipfs/bafybeibywzoqceokzlog7guvsr2vtinric3mngzf2cv7p6rxkyv7wh42re
+/Users/wfschrec/Downloads/neuromorpho/145864/L4D5AddaE_MT_Fact.self -> https://edge.estuary.tech/ipfs/bafybeiao7cfmj7dwjxgfiga3iazaszv4acug34c3hcoz36m7ociw7ax5ca
+/Users/wfschrec/Downloads/neuromorpho/145864/L4D5AddaE_MT_Fact.measure -> https://edge.estuary.tech/ipfs/bafybeicfg74fb3b2hnn6w3wrejziqyhdlijk22dbad5tpadls3asidcany
+/Users/wfschrec/Downloads/neuromorpho/145864/L4D5AddaE_MT_Fact.persist -> https://edge.estuary.tech/ipfs/bafybeie3y3bqd5ztfurjqnpxl4nlt2icgkttwvbxsfuuji3m4o4jbyzk2u
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeigmk35fdyp3gsbh6eqkr5mcywmdvizkwqfm2pd6am4nzpt2yiekpa
+Storing neuro sample with ID: 145865
+/Users/wfschrec/Downloads/neuromorpho/145865/L10D6ddaE_MT_Fact.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeibbo5smcx5tfbfjipqc5mdedwqtwepygkk5xnufrcjuvxgverrck4
+/Users/wfschrec/Downloads/neuromorpho/145865/L10D6ddaE_MT_Fact.png -> https://edge.estuary.tech/ipfs/bafybeidc4mui5wsthtubxvioucek7qljutg6vi3zuxhnwx5gunhrcaywxy
+/Users/wfschrec/Downloads/neuromorpho/145865/L10D6ddaE_MT_Fact.self -> https://edge.estuary.tech/ipfs/bafybeic3jcnfmnvxjq5lere63oefa6patrtg6pzcnn3oxyz6pfjk42osiy
+/Users/wfschrec/Downloads/neuromorpho/145865/L10D6ddaE_MT_Fact.measure -> https://edge.estuary.tech/ipfs/bafybeihwq6q2yoz5zxdjjpa2g3hmw5quuclf32itciaujc4566zkeqsafe
+/Users/wfschrec/Downloads/neuromorpho/145865/L10D6ddaE_MT_Fact.persist -> https://edge.estuary.tech/ipfs/bafybeidzti3vuk75w44c2jbenkyjsvaswwsejedkc7ssy3qhfhhkvyh5gi
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeihekfkg4zc6bsnhg2ydsyuddjhxkvgr5jdg6ok4tp4j3zroa3hrda
+Storing neuro sample with ID: 145866
+/Users/wfschrec/Downloads/neuromorpho/145866/L8D7ddaE_MT_Fact.CNG.swc -> https://edge.estuary.tech/ipfs/bafybeiademdht3k4heeen7is2w6wor5yxgsp5fuqxhbuffywrr6avju74a
+/Users/wfschrec/Downloads/neuromorpho/145866/L8D7ddaE_MT_Fact.png -> https://edge.estuary.tech/ipfs/bafybeiegt6b6gjgh6ozyl2f2l3ixajuz2c2fse56h2qgohjsnbssk7l7su
+/Users/wfschrec/Downloads/neuromorpho/145866/L8D7ddaE_MT_Fact.self -> https://edge.estuary.tech/ipfs/bafybeid7pve6ib4hozxr62ajbpg2wvbz4nhs2aawoubgcgid727hmr33im
+/Users/wfschrec/Downloads/neuromorpho/145866/L8D7ddaE_MT_Fact.measure -> https://edge.estuary.tech/ipfs/bafybeihj7y2dc5g2povin6pr72kb5shkshagr2i7tubu6couoiyv36mamu
+/Users/wfschrec/Downloads/neuromorpho/145866/L8D7ddaE_MT_Fact.persist -> https://edge.estuary.tech/ipfs/bafybeihluj6z76xedzi2hiqobdxlezahs6czpmkvxs4dw6gsuzwynpzzsy
+Sample Metadata -> https://edge.estuary.tech/ipfs/bafybeihcyzvyzkmo6hjzqm22vhe6hpvytplpz2o2cl5ay6bkofpgavgadq
